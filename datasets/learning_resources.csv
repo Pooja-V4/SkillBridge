@@ -1,0 +1,19 @@
+title,skill_name,platform,url,difficulty,duration,id,skill_id
+Spring Boot 3 Fundamentals & REST APIs,Spring Boot,Official Spring Guides,https://spring.io/guides,BEGINNER,10 hours,1,10
+Mastering Spring Data JPA with PostgreSQL,Spring Boot,Baeldung,https://www.baeldung.com/spring-boot,INTERMEDIATE,14 hours,2,10
+Spring Security 6 with JWT Authentication,Spring Boot,freeCodeCamp,https://www.freecodecamp.org,ADVANCED,18 hours,3,10
+Java Programming Masterclass: Collections & Streams,Java,Oracle University,https://dev.java,INTERMEDIATE,25 hours,4,1
+React Official Documentation: Quick Start & Hooks,React,React Official Docs,https://react.dev,BEGINNER,12 hours,5,6
+Modern TypeScript for React Developers,TypeScript,TypeScript Handbook,https://www.typescriptlang.org/docs,INTERMEDIATE,15 hours,6,4
+Tailwind CSS from Scratch to Production,Tailwind CSS,Tailwind Labs,https://tailwindcss.com/docs,BEGINNER,8 hours,7,8
+Modern Web Development with HTML5 & CSS3,HTML5 & CSS3,MDN Web Docs,https://developer.mozilla.org,BEGINNER,20 hours,8,7
+PostgreSQL Tutorial for Developers: Relational Design & Indexes,PostgreSQL,PostgreSQL Tutorial,https://www.postgresqltutorial.com,BEGINNER,16 hours,9,14
+Database Normalization (1NF to BCNF) and SQL Optimization,PostgreSQL,GeeksforGeeks,https://www.geeksforgeeks.org/dbms,INTERMEDIATE,12 hours,10,14
+Docker Hands-On: Containers and Multi-Stage Builds,Docker,Docker Docs,https://docs.docker.com/get-started,INTERMEDIATE,10 hours,11,18
+Git & GitHub Workflow for Engineering Teams,Git & GitHub,GitHub Skills,https://skills.github.com,BEGINNER,6 hours,12,17
+AWS Certified Cloud Practitioner Essentials,AWS (Amazon Web Services),AWS Skill Builder,https://explore.skillbuilder.aws,BEGINNER,14 hours,13,19
+Machine Learning with Scikit-Learn: Classification & Regression,Machine Learning,Scikit-Learn Docs,https://scikit-learn.org/stable/tutorial,INTERMEDIATE,24 hours,14,20
+"Data Analysis with Python, Pandas and NumPy",Pandas & NumPy,Kaggle Learn,https://www.kaggle.com/learn,BEGINNER,12 hours,15,21
+Applied Natural Language Processing: TF-IDF & Word Embeddings,Natural Language Processing (NLP),Coursera,https://www.coursera.org,ADVANCED,30 hours,16,22
+"Data Structures & Algorithms: Trees, Graphs & Dynamic Programming",Problem Solving & DSA,NeetCode,https://neetcode.io,INTERMEDIATE,40 hours,17,23
+Engineering Teamwork & Agile Methodologies,Teamwork & Collaboration,Atlassian Agile Coach,https://www.atlassian.com/agile,BEGINNER,5 hours,18,24

@@ -1,0 +1,301 @@
+id,roll_number,first_name,last_name,email,department,academic_year,graduation_year,cgpa,target_career_role,projects_count,certifications_count
+1,26AI101,Vihaan,Sharma,vihaan.sharma1@university.edu,AI & Data Science,2,2026,8.29,Full Stack Developer,4,0
+2,24CO102,Vihaan,Singh,vihaan.singh2@university.edu,Computer Science & Engineering,4,2024,9.23,Python Developer,3,1
+3,24AI103,Aadhya,Singh,aadhya.singh3@university.edu,AI & Data Science,4,2024,7.91,Data Analyst,1,1
+4,24IN104,Diya,Gupta,diya.gupta4@university.edu,Information Technology,4,2024,7.64,DevOps Engineer,1,0
+5,24IN105,Krishna,Chatterjee,krishna.chatterjee5@university.edu,Information Technology,4,2024,9.31,Python Developer,2,1
+6,26EL106,Sai,Deshmukh,sai.deshmukh6@university.edu,Electronics & Communication,2,2026,7.36,Backend Developer,3,3
+7,26EL107,Tanvi,Agarwal,tanvi.agarwal7@university.edu,Electronics & Communication,2,2026,8.37,Backend Developer,1,0
+8,26CO108,Kavya,Sharma,kavya.sharma8@university.edu,Computer Science & Engineering,2,2026,6.86,Frontend Developer,4,3
+9,24CO109,Sai,Patel,sai.patel9@university.edu,Computer Science & Engineering,4,2024,8.56,Backend Developer,1,0
+10,24AI110,Aadhya,Menon,aadhya.menon10@university.edu,AI & Data Science,4,2024,7.56,Java Developer,3,0
+11,24EL111,Aadhya,Menon,aadhya.menon11@university.edu,Electronics & Communication,4,2024,8.38,Frontend Developer,1,2
+12,24IN112,Ayaan,Deshmukh,ayaan.deshmukh12@university.edu,Information Technology,4,2024,8.12,Full Stack Developer,4,0
+13,25EL113,Vivaan,Reddy,vivaan.reddy13@university.edu,Electronics & Communication,3,2025,8.02,Full Stack Developer,4,1
+14,25AI114,Meera,Agarwal,meera.agarwal14@university.edu,AI & Data Science,3,2025,7.5,Java Developer,3,2
+15,25EL115,Tanvi,Rao,tanvi.rao15@university.edu,Electronics & Communication,3,2025,7.78,Java Developer,1,3
+16,25AI116,Pooja,Gupta,pooja.gupta16@university.edu,AI & Data Science,3,2025,8.33,Full Stack Developer,3,1
+17,25EL117,Diya,Choudhury,diya.choudhury17@university.edu,Electronics & Communication,3,2025,6.99,Backend Developer,4,1
+18,25CO118,Riya,Deshmukh,riya.deshmukh18@university.edu,Computer Science & Engineering,3,2025,7.83,Java Developer,1,2
+19,24EL119,Tanvi,Singh,tanvi.singh19@university.edu,Electronics & Communication,4,2024,8.4,Backend Developer,1,2
+20,25EL120,Krishna,Bhat,krishna.bhat20@university.edu,Electronics & Communication,3,2025,8.99,Machine Learning Engineer,3,2
+21,24EL121,Ayaan,Das,ayaan.das21@university.edu,Electronics & Communication,4,2024,8.15,DevOps Engineer,4,0
+22,26IN122,Kavya,Iyer,kavya.iyer22@university.edu,Information Technology,2,2026,7.03,DevOps Engineer,3,2
+23,25AI123,Sai,Verma,sai.verma23@university.edu,AI & Data Science,3,2025,8.29,DevOps Engineer,1,0
+24,25IN124,Vihaan,Rao,vihaan.rao24@university.edu,Information Technology,3,2025,8.27,Full Stack Developer,2,1
+25,26CO125,Krishna,Nair,krishna.nair25@university.edu,Computer Science & Engineering,2,2026,8.4,Python Developer,4,0
+26,24EL126,Vivaan,Iyer,vivaan.iyer26@university.edu,Electronics & Communication,4,2024,8.62,DevOps Engineer,3,1
+27,25AI127,Aditya,Bose,aditya.bose27@university.edu,AI & Data Science,3,2025,9.0,Java Developer,4,3
+28,24AI128,Arjun,Kulkarni,arjun.kulkarni28@university.edu,AI & Data Science,4,2024,8.9,Python Developer,4,3
+29,25EL129,Ananya,Menon,ananya.menon29@university.edu,Electronics & Communication,3,2025,9.39,Backend Developer,4,1
+30,24EL130,Ananya,Bhat,ananya.bhat30@university.edu,Electronics & Communication,4,2024,7.52,Full Stack Developer,3,3
+31,26IN131,Sai,Iyer,sai.iyer31@university.edu,Information Technology,2,2026,7.57,Backend Developer,4,1
+32,24CO132,Ishaan,Choudhury,ishaan.choudhury32@university.edu,Computer Science & Engineering,4,2024,7.66,Machine Learning Engineer,3,0
+33,24CO133,Ishaan,Joshi,ishaan.joshi33@university.edu,Computer Science & Engineering,4,2024,7.85,Python Developer,3,3
+34,26EL134,Diya,Patel,diya.patel34@university.edu,Electronics & Communication,2,2026,8.38,Python Developer,1,3
+35,25IN135,Ayaan,Menon,ayaan.menon35@university.edu,Information Technology,3,2025,7.1,Machine Learning Engineer,2,3
+36,25CO136,Meera,Sharma,meera.sharma36@university.edu,Computer Science & Engineering,3,2025,8.4,Backend Developer,2,1
+37,24CO137,Riya,Chatterjee,riya.chatterjee37@university.edu,Computer Science & Engineering,4,2024,8.8,Data Analyst,1,3
+38,25AI138,Krishna,Bhat,krishna.bhat38@university.edu,AI & Data Science,3,2025,8.4,Python Developer,4,3
+39,26AI139,Riya,Reddy,riya.reddy39@university.edu,AI & Data Science,2,2026,7.23,Data Analyst,1,3
+40,24CO140,Meera,Menon,meera.menon40@university.edu,Computer Science & Engineering,4,2024,7.78,Python Developer,1,1
+41,25CO141,Meera,Verma,meera.verma41@university.edu,Computer Science & Engineering,3,2025,7.41,DevOps Engineer,4,2
+42,26IN142,Pooja,Das,pooja.das42@university.edu,Information Technology,2,2026,8.36,Machine Learning Engineer,2,2
+43,24EL143,Ayaan,Das,ayaan.das43@university.edu,Electronics & Communication,4,2024,9.35,Data Analyst,2,2
+44,24EL144,Pooja,Joshi,pooja.joshi44@university.edu,Electronics & Communication,4,2024,8.77,Data Analyst,3,1
+45,24EL145,Kavya,Verma,kavya.verma45@university.edu,Electronics & Communication,4,2024,7.74,DevOps Engineer,2,0
+46,26AI146,Ananya,Patel,ananya.patel46@university.edu,AI & Data Science,2,2026,7.6,Machine Learning Engineer,3,2
+47,25AI147,Diya,Sharma,diya.sharma47@university.edu,AI & Data Science,3,2025,8.31,DevOps Engineer,2,1
+48,24AI148,Ayaan,Joshi,ayaan.joshi48@university.edu,AI & Data Science,4,2024,8.54,DevOps Engineer,2,1
+49,26AI149,Sneha,Reddy,sneha.reddy49@university.edu,AI & Data Science,2,2026,8.15,Frontend Developer,4,0
+50,26AI150,Aditya,Sharma,aditya.sharma50@university.edu,AI & Data Science,2,2026,7.54,Frontend Developer,4,0
+51,25CO151,Sneha,Menon,sneha.menon51@university.edu,Computer Science & Engineering,3,2025,8.25,Machine Learning Engineer,3,2
+52,26IN152,Vivaan,Choudhury,vivaan.choudhury52@university.edu,Information Technology,2,2026,7.95,Backend Developer,1,2
+53,25CO153,Aditya,Das,aditya.das53@university.edu,Computer Science & Engineering,3,2025,7.06,Python Developer,3,0
+54,26EL154,Aarav,Nair,aarav.nair54@university.edu,Electronics & Communication,2,2026,7.32,Frontend Developer,1,1
+55,24IN155,Krishna,Joshi,krishna.joshi55@university.edu,Information Technology,4,2024,7.75,DevOps Engineer,2,0
+56,25CO156,Ayaan,Kulkarni,ayaan.kulkarni56@university.edu,Computer Science & Engineering,3,2025,9.62,Data Analyst,4,1
+57,26CO157,Arjun,Das,arjun.das57@university.edu,Computer Science & Engineering,2,2026,7.51,Frontend Developer,3,1
+58,24AI158,Vivaan,Agarwal,vivaan.agarwal58@university.edu,AI & Data Science,4,2024,8.03,Backend Developer,4,0
+59,26AI159,Kavya,Reddy,kavya.reddy59@university.edu,AI & Data Science,2,2026,7.56,Backend Developer,2,0
+60,24AI160,Meera,Kulkarni,meera.kulkarni60@university.edu,AI & Data Science,4,2024,8.22,Java Developer,1,3
+61,26CO161,Sneha,Verma,sneha.verma61@university.edu,Computer Science & Engineering,2,2026,8.51,DevOps Engineer,4,1
+62,25EL162,Aarav,Bhat,aarav.bhat62@university.edu,Electronics & Communication,3,2025,8.58,Backend Developer,1,3
+63,24AI163,Kavya,Bose,kavya.bose63@university.edu,AI & Data Science,4,2024,8.25,Python Developer,4,1
+64,24AI164,Ishaan,Verma,ishaan.verma64@university.edu,AI & Data Science,4,2024,6.99,Full Stack Developer,3,3
+65,25AI165,Pooja,Rao,pooja.rao65@university.edu,AI & Data Science,3,2025,8.05,Full Stack Developer,2,0
+66,26AI166,Sneha,Joshi,sneha.joshi66@university.edu,AI & Data Science,2,2026,8.34,Full Stack Developer,3,1
+67,25CO167,Ishaan,Agarwal,ishaan.agarwal67@university.edu,Computer Science & Engineering,3,2025,7.49,Java Developer,1,3
+68,26CO168,Diya,Patel,diya.patel68@university.edu,Computer Science & Engineering,2,2026,7.22,Backend Developer,2,1
+69,24CO169,Riya,Mehta,riya.mehta69@university.edu,Computer Science & Engineering,4,2024,9.73,Full Stack Developer,4,0
+70,25IN170,Isha,Gupta,isha.gupta70@university.edu,Information Technology,3,2025,8.04,Data Analyst,2,2
+71,24AI171,Ishaan,Gupta,ishaan.gupta71@university.edu,AI & Data Science,4,2024,7.25,Data Analyst,2,2
+72,25IN172,Pooja,Gupta,pooja.gupta72@university.edu,Information Technology,3,2025,7.5,Frontend Developer,4,0
+73,26AI173,Reyansh,Bose,reyansh.bose73@university.edu,AI & Data Science,2,2026,8.21,Full Stack Developer,4,1
+74,25EL174,Krishna,Menon,krishna.menon74@university.edu,Electronics & Communication,3,2025,8.54,Frontend Developer,2,2
+75,24IN175,Arjun,Sharma,arjun.sharma75@university.edu,Information Technology,4,2024,7.86,DevOps Engineer,4,0
+76,25EL176,Aditya,Mehta,aditya.mehta76@university.edu,Electronics & Communication,3,2025,8.17,Backend Developer,2,2
+77,26CO177,Aditya,Deshmukh,aditya.deshmukh77@university.edu,Computer Science & Engineering,2,2026,8.65,Backend Developer,2,3
+78,25EL178,Aarav,Deshmukh,aarav.deshmukh78@university.edu,Electronics & Communication,3,2025,7.84,Backend Developer,3,3
+79,26CO179,Sneha,Das,sneha.das79@university.edu,Computer Science & Engineering,2,2026,8.85,Data Analyst,4,0
+80,24EL180,Krishna,Gupta,krishna.gupta80@university.edu,Electronics & Communication,4,2024,8.57,Backend Developer,4,0
+81,25EL181,Isha,Deshmukh,isha.deshmukh81@university.edu,Electronics & Communication,3,2025,8.78,Frontend Developer,1,3
+82,26CO182,Diya,Menon,diya.menon82@university.edu,Computer Science & Engineering,2,2026,8.69,Backend Developer,3,1
+83,25AI183,Vihaan,Nair,vihaan.nair83@university.edu,AI & Data Science,3,2025,7.42,DevOps Engineer,3,3
+84,26EL184,Sai,Das,sai.das84@university.edu,Electronics & Communication,2,2026,9.12,Backend Developer,4,3
+85,24CO185,Meera,Agarwal,meera.agarwal85@university.edu,Computer Science & Engineering,4,2024,8.33,Python Developer,1,1
+86,25EL186,Isha,Menon,isha.menon86@university.edu,Electronics & Communication,3,2025,8.36,DevOps Engineer,4,3
+87,26EL187,Kavya,Rao,kavya.rao87@university.edu,Electronics & Communication,2,2026,8.01,Backend Developer,3,0
+88,24AI188,Ishaan,Agarwal,ishaan.agarwal88@university.edu,AI & Data Science,4,2024,7.08,Full Stack Developer,2,3
+89,26AI189,Aditya,Joshi,aditya.joshi89@university.edu,AI & Data Science,2,2026,8.3,Machine Learning Engineer,2,3
+90,26AI190,Aditya,Mehta,aditya.mehta90@university.edu,AI & Data Science,2,2026,7.42,Data Analyst,2,0
+91,26CO191,Arjun,Kulkarni,arjun.kulkarni91@university.edu,Computer Science & Engineering,2,2026,7.26,Full Stack Developer,1,2
+92,24AI192,Arjun,Gupta,arjun.gupta92@university.edu,AI & Data Science,4,2024,8.86,Full Stack Developer,2,2
+93,26CO193,Aditya,Sharma,aditya.sharma93@university.edu,Computer Science & Engineering,2,2026,8.08,Java Developer,4,2
+94,26IN194,Vivaan,Choudhury,vivaan.choudhury94@university.edu,Information Technology,2,2026,8.3,Java Developer,2,0
+95,26AI195,Tanvi,Iyer,tanvi.iyer95@university.edu,AI & Data Science,2,2026,8.09,Full Stack Developer,2,0
+96,25EL196,Isha,Patel,isha.patel96@university.edu,Electronics & Communication,3,2025,8.43,Python Developer,3,0
+97,26CO197,Isha,Choudhury,isha.choudhury97@university.edu,Computer Science & Engineering,2,2026,7.59,DevOps Engineer,1,1
+98,25AI198,Ayaan,Choudhury,ayaan.choudhury98@university.edu,AI & Data Science,3,2025,8.0,Machine Learning Engineer,3,2
+99,25IN199,Meera,Verma,meera.verma99@university.edu,Information Technology,3,2025,8.76,Data Analyst,4,0
+100,26AI200,Tanvi,Agarwal,tanvi.agarwal100@university.edu,AI & Data Science,2,2026,8.99,Java Developer,1,1
+101,25EL201,Ayaan,Choudhury,ayaan.choudhury101@university.edu,Electronics & Communication,3,2025,8.69,Full Stack Developer,3,3
+102,25IN202,Vihaan,Gupta,vihaan.gupta102@university.edu,Information Technology,3,2025,7.56,Java Developer,2,3
+103,24AI203,Reyansh,Nair,reyansh.nair103@university.edu,AI & Data Science,4,2024,8.65,Data Analyst,1,0
+104,26AI204,Kavya,Bhat,kavya.bhat104@university.edu,AI & Data Science,2,2026,9.23,Frontend Developer,4,2
+105,25CO205,Ananya,Joshi,ananya.joshi105@university.edu,Computer Science & Engineering,3,2025,8.37,Data Analyst,3,0
+106,25AI206,Ishaan,Sharma,ishaan.sharma106@university.edu,AI & Data Science,3,2025,9.14,Full Stack Developer,1,2
+107,26IN207,Ishaan,Choudhury,ishaan.choudhury107@university.edu,Information Technology,2,2026,8.97,DevOps Engineer,2,0
+108,25EL208,Sai,Mehta,sai.mehta108@university.edu,Electronics & Communication,3,2025,8.38,Frontend Developer,4,0
+109,26IN209,Isha,Verma,isha.verma109@university.edu,Information Technology,2,2026,8.83,Frontend Developer,2,1
+110,26CO210,Tanvi,Agarwal,tanvi.agarwal110@university.edu,Computer Science & Engineering,2,2026,7.86,Full Stack Developer,3,2
+111,24AI211,Ayaan,Nair,ayaan.nair111@university.edu,AI & Data Science,4,2024,6.87,Python Developer,4,0
+112,24EL212,Diya,Joshi,diya.joshi112@university.edu,Electronics & Communication,4,2024,8.56,Full Stack Developer,1,1
+113,26CO213,Arjun,Iyer,arjun.iyer113@university.edu,Computer Science & Engineering,2,2026,8.08,Python Developer,3,3
+114,24IN214,Ishaan,Rao,ishaan.rao114@university.edu,Information Technology,4,2024,9.37,Backend Developer,1,3
+115,24AI215,Pooja,Nair,pooja.nair115@university.edu,AI & Data Science,4,2024,8.53,Frontend Developer,3,0
+116,26EL216,Riya,Agarwal,riya.agarwal116@university.edu,Electronics & Communication,2,2026,6.99,Data Analyst,2,0
+117,26AI217,Kavya,Rao,kavya.rao117@university.edu,AI & Data Science,2,2026,9.02,Backend Developer,1,0
+118,24IN218,Aarav,Gupta,aarav.gupta118@university.edu,Information Technology,4,2024,7.36,Frontend Developer,2,0
+119,24AI219,Riya,Reddy,riya.reddy119@university.edu,AI & Data Science,4,2024,7.8,Full Stack Developer,1,2
+120,25IN220,Vihaan,Deshmukh,vihaan.deshmukh120@university.edu,Information Technology,3,2025,7.87,Python Developer,3,3
+121,25EL221,Isha,Singh,isha.singh121@university.edu,Electronics & Communication,3,2025,8.65,DevOps Engineer,4,1
+122,26CO222,Riya,Joshi,riya.joshi122@university.edu,Computer Science & Engineering,2,2026,7.18,Python Developer,3,0
+123,24CO223,Ananya,Deshmukh,ananya.deshmukh123@university.edu,Computer Science & Engineering,4,2024,8.27,Machine Learning Engineer,2,0
+124,24AI224,Ayaan,Joshi,ayaan.joshi124@university.edu,AI & Data Science,4,2024,9.09,DevOps Engineer,3,3
+125,25IN225,Vihaan,Singh,vihaan.singh125@university.edu,Information Technology,3,2025,8.31,Data Analyst,1,3
+126,24AI226,Meera,Bhat,meera.bhat126@university.edu,AI & Data Science,4,2024,7.69,Machine Learning Engineer,4,1
+127,24AI227,Sneha,Menon,sneha.menon127@university.edu,AI & Data Science,4,2024,8.59,DevOps Engineer,4,2
+128,24IN228,Aadhya,Reddy,aadhya.reddy128@university.edu,Information Technology,4,2024,8.53,Machine Learning Engineer,2,2
+129,24IN229,Ishaan,Joshi,ishaan.joshi129@university.edu,Information Technology,4,2024,9.7,Full Stack Developer,4,0
+130,26EL230,Kavya,Menon,kavya.menon130@university.edu,Electronics & Communication,2,2026,8.91,Data Analyst,2,1
+131,24AI231,Vihaan,Singh,vihaan.singh131@university.edu,AI & Data Science,4,2024,8.07,Data Analyst,4,3
+132,25CO232,Aditya,Nair,aditya.nair132@university.edu,Computer Science & Engineering,3,2025,7.95,Data Analyst,1,0
+133,25CO233,Tanvi,Verma,tanvi.verma133@university.edu,Computer Science & Engineering,3,2025,8.4,Python Developer,1,2
+134,24EL234,Tanvi,Bhat,tanvi.bhat134@university.edu,Electronics & Communication,4,2024,7.96,Full Stack Developer,3,1
+135,24AI235,Ayaan,Reddy,ayaan.reddy135@university.edu,AI & Data Science,4,2024,8.52,DevOps Engineer,4,2
+136,25AI236,Aadhya,Joshi,aadhya.joshi136@university.edu,AI & Data Science,3,2025,8.29,DevOps Engineer,1,1
+137,25AI237,Pooja,Nair,pooja.nair137@university.edu,AI & Data Science,3,2025,8.3,Python Developer,2,3
+138,25EL238,Diya,Singh,diya.singh138@university.edu,Electronics & Communication,3,2025,9.29,Java Developer,1,2
+139,26AI239,Aditya,Chatterjee,aditya.chatterjee139@university.edu,AI & Data Science,2,2026,8.34,Full Stack Developer,2,3
+140,26CO240,Aarav,Choudhury,aarav.choudhury140@university.edu,Computer Science & Engineering,2,2026,8.43,DevOps Engineer,4,3
+141,25IN241,Meera,Reddy,meera.reddy141@university.edu,Information Technology,3,2025,8.87,Full Stack Developer,1,3
+142,24CO242,Krishna,Rao,krishna.rao142@university.edu,Computer Science & Engineering,4,2024,7.55,Java Developer,1,0
+143,24CO243,Isha,Nair,isha.nair143@university.edu,Computer Science & Engineering,4,2024,8.26,Frontend Developer,1,1
+144,26EL244,Sai,Kulkarni,sai.kulkarni144@university.edu,Electronics & Communication,2,2026,9.31,Backend Developer,3,1
+145,25IN245,Ayaan,Bhat,ayaan.bhat145@university.edu,Information Technology,3,2025,8.93,Python Developer,2,3
+146,25AI246,Ayaan,Gupta,ayaan.gupta146@university.edu,AI & Data Science,3,2025,7.71,Data Analyst,1,2
+147,26AI247,Ayaan,Bhat,ayaan.bhat147@university.edu,AI & Data Science,2,2026,8.16,Full Stack Developer,4,0
+148,24AI248,Sneha,Joshi,sneha.joshi148@university.edu,AI & Data Science,4,2024,7.75,Java Developer,1,1
+149,25EL249,Krishna,Gupta,krishna.gupta149@university.edu,Electronics & Communication,3,2025,8.52,Frontend Developer,4,0
+150,25IN250,Meera,Rao,meera.rao150@university.edu,Information Technology,3,2025,9.28,Data Analyst,3,3
+151,25EL251,Krishna,Bhat,krishna.bhat151@university.edu,Electronics & Communication,3,2025,9.03,Data Analyst,4,3
+152,26IN252,Isha,Choudhury,isha.choudhury152@university.edu,Information Technology,2,2026,7.31,Python Developer,4,1
+153,25AI253,Kavya,Choudhury,kavya.choudhury153@university.edu,AI & Data Science,3,2025,6.87,DevOps Engineer,3,2
+154,24EL254,Diya,Rao,diya.rao154@university.edu,Electronics & Communication,4,2024,7.79,Machine Learning Engineer,4,1
+155,24CO255,Aarav,Nair,aarav.nair155@university.edu,Computer Science & Engineering,4,2024,9.9,Python Developer,3,1
+156,24CO256,Isha,Sharma,isha.sharma156@university.edu,Computer Science & Engineering,4,2024,8.36,Backend Developer,4,3
+157,24AI257,Aarav,Iyer,aarav.iyer157@university.edu,AI & Data Science,4,2024,9.0,Java Developer,1,3
+158,25CO258,Arjun,Deshmukh,arjun.deshmukh158@university.edu,Computer Science & Engineering,3,2025,8.94,DevOps Engineer,3,3
+159,24AI259,Aarav,Bhat,aarav.bhat159@university.edu,AI & Data Science,4,2024,8.18,Machine Learning Engineer,2,3
+160,26AI260,Krishna,Verma,krishna.verma160@university.edu,AI & Data Science,2,2026,9.22,Full Stack Developer,1,1
+161,24EL261,Sai,Menon,sai.menon161@university.edu,Electronics & Communication,4,2024,8.89,Data Analyst,4,3
+162,25AI262,Isha,Menon,isha.menon162@university.edu,AI & Data Science,3,2025,8.71,DevOps Engineer,4,3
+163,25IN263,Diya,Nair,diya.nair163@university.edu,Information Technology,3,2025,7.48,Backend Developer,3,2
+164,25CO264,Aarav,Singh,aarav.singh164@university.edu,Computer Science & Engineering,3,2025,8.79,Java Developer,3,1
+165,25EL265,Kavya,Rao,kavya.rao165@university.edu,Electronics & Communication,3,2025,7.83,Backend Developer,2,0
+166,26CO266,Aditya,Reddy,aditya.reddy166@university.edu,Computer Science & Engineering,2,2026,7.72,Frontend Developer,3,0
+167,26CO267,Vivaan,Joshi,vivaan.joshi167@university.edu,Computer Science & Engineering,2,2026,7.67,Data Analyst,1,0
+168,25AI268,Sneha,Choudhury,sneha.choudhury168@university.edu,AI & Data Science,3,2025,8.46,Machine Learning Engineer,2,0
+169,24IN269,Ayaan,Das,ayaan.das169@university.edu,Information Technology,4,2024,9.17,Data Analyst,4,1
+170,25EL270,Aarav,Bose,aarav.bose170@university.edu,Electronics & Communication,3,2025,9.62,Python Developer,4,2
+171,26IN271,Sai,Rao,sai.rao171@university.edu,Information Technology,2,2026,6.55,Python Developer,4,1
+172,25CO272,Sneha,Verma,sneha.verma172@university.edu,Computer Science & Engineering,3,2025,9.1,DevOps Engineer,1,1
+173,26CO273,Aadhya,Patel,aadhya.patel173@university.edu,Computer Science & Engineering,2,2026,8.4,Frontend Developer,4,3
+174,26IN274,Sai,Bose,sai.bose174@university.edu,Information Technology,2,2026,6.48,Frontend Developer,2,0
+175,24CO275,Riya,Joshi,riya.joshi175@university.edu,Computer Science & Engineering,4,2024,7.68,Python Developer,2,0
+176,26AI276,Aadhya,Agarwal,aadhya.agarwal176@university.edu,AI & Data Science,2,2026,7.79,Full Stack Developer,3,2
+177,25AI277,Ishaan,Das,ishaan.das177@university.edu,AI & Data Science,3,2025,6.0,Data Analyst,2,3
+178,24IN278,Reyansh,Sharma,reyansh.sharma178@university.edu,Information Technology,4,2024,7.74,Python Developer,3,0
+179,24AI279,Riya,Verma,riya.verma179@university.edu,AI & Data Science,4,2024,8.0,Java Developer,2,2
+180,24IN280,Aadhya,Choudhury,aadhya.choudhury180@university.edu,Information Technology,4,2024,7.5,Python Developer,2,0
+181,26CO281,Isha,Chatterjee,isha.chatterjee181@university.edu,Computer Science & Engineering,2,2026,8.02,Full Stack Developer,3,3
+182,24IN282,Ananya,Deshmukh,ananya.deshmukh182@university.edu,Information Technology,4,2024,8.29,Python Developer,2,1
+183,24EL283,Kavya,Patel,kavya.patel183@university.edu,Electronics & Communication,4,2024,8.97,DevOps Engineer,1,3
+184,24IN284,Diya,Bhat,diya.bhat184@university.edu,Information Technology,4,2024,9.04,Full Stack Developer,4,0
+185,24CO285,Tanvi,Kulkarni,tanvi.kulkarni185@university.edu,Computer Science & Engineering,4,2024,7.59,Full Stack Developer,4,1
+186,26AI286,Ishaan,Das,ishaan.das186@university.edu,AI & Data Science,2,2026,7.75,Java Developer,4,1
+187,24AI287,Riya,Nair,riya.nair187@university.edu,AI & Data Science,4,2024,8.18,Java Developer,2,3
+188,24CO288,Pooja,Mehta,pooja.mehta188@university.edu,Computer Science & Engineering,4,2024,8.18,DevOps Engineer,1,1
+189,26AI289,Diya,Choudhury,diya.choudhury189@university.edu,AI & Data Science,2,2026,9.65,Python Developer,3,0
+190,25IN290,Aadhya,Mehta,aadhya.mehta190@university.edu,Information Technology,3,2025,8.45,Backend Developer,4,1
+191,26AI291,Isha,Kulkarni,isha.kulkarni191@university.edu,AI & Data Science,2,2026,7.37,Python Developer,4,3
+192,24CO292,Ananya,Menon,ananya.menon192@university.edu,Computer Science & Engineering,4,2024,7.96,Java Developer,1,0
+193,25AI293,Sai,Deshmukh,sai.deshmukh193@university.edu,AI & Data Science,3,2025,7.95,DevOps Engineer,3,3
+194,26EL294,Arjun,Menon,arjun.menon194@university.edu,Electronics & Communication,2,2026,7.87,Full Stack Developer,4,2
+195,25CO295,Kavya,Gupta,kavya.gupta195@university.edu,Computer Science & Engineering,3,2025,9.34,DevOps Engineer,1,2
+196,24EL296,Pooja,Patel,pooja.patel196@university.edu,Electronics & Communication,4,2024,7.73,Backend Developer,2,0
+197,24EL297,Vivaan,Nair,vivaan.nair197@university.edu,Electronics & Communication,4,2024,9.62,Java Developer,2,1
+198,25IN298,Vivaan,Agarwal,vivaan.agarwal198@university.edu,Information Technology,3,2025,8.28,Full Stack Developer,1,2
+199,25EL299,Arjun,Deshmukh,arjun.deshmukh199@university.edu,Electronics & Communication,3,2025,8.13,Java Developer,2,3
+200,26AI300,Vivaan,Mehta,vivaan.mehta200@university.edu,AI & Data Science,2,2026,8.53,Machine Learning Engineer,3,2
+201,24IN301,Ayaan,Reddy,ayaan.reddy201@university.edu,Information Technology,4,2024,7.7,Backend Developer,1,3
+202,24IN302,Ishaan,Bhat,ishaan.bhat202@university.edu,Information Technology,4,2024,8.34,Frontend Developer,2,0
+203,24EL303,Sneha,Singh,sneha.singh203@university.edu,Electronics & Communication,4,2024,8.43,Backend Developer,1,0
+204,24AI304,Aditya,Singh,aditya.singh204@university.edu,AI & Data Science,4,2024,7.41,Java Developer,3,3
+205,24CO305,Ananya,Gupta,ananya.gupta205@university.edu,Computer Science & Engineering,4,2024,6.46,Backend Developer,2,2
+206,25IN306,Krishna,Reddy,krishna.reddy206@university.edu,Information Technology,3,2025,8.32,Frontend Developer,2,0
+207,25EL307,Krishna,Gupta,krishna.gupta207@university.edu,Electronics & Communication,3,2025,9.28,Java Developer,2,2
+208,24IN308,Aadhya,Menon,aadhya.menon208@university.edu,Information Technology,4,2024,7.88,Python Developer,1,0
+209,26AI309,Kavya,Reddy,kavya.reddy209@university.edu,AI & Data Science,2,2026,7.01,DevOps Engineer,3,0
+210,25EL310,Riya,Mehta,riya.mehta210@university.edu,Electronics & Communication,3,2025,8.88,Java Developer,3,2
+211,25AI311,Aarav,Das,aarav.das211@university.edu,AI & Data Science,3,2025,8.45,Frontend Developer,2,1
+212,25CO312,Ayaan,Sharma,ayaan.sharma212@university.edu,Computer Science & Engineering,3,2025,8.79,DevOps Engineer,1,2
+213,25AI313,Diya,Verma,diya.verma213@university.edu,AI & Data Science,3,2025,6.49,Backend Developer,2,0
+214,25CO314,Meera,Chatterjee,meera.chatterjee214@university.edu,Computer Science & Engineering,3,2025,7.8,DevOps Engineer,1,0
+215,26CO315,Aditya,Das,aditya.das215@university.edu,Computer Science & Engineering,2,2026,8.9,Machine Learning Engineer,1,1
+216,26CO316,Meera,Gupta,meera.gupta216@university.edu,Computer Science & Engineering,2,2026,8.19,Java Developer,2,1
+217,24AI317,Arjun,Kulkarni,arjun.kulkarni217@university.edu,AI & Data Science,4,2024,7.83,Full Stack Developer,3,3
+218,24CO318,Isha,Singh,isha.singh218@university.edu,Computer Science & Engineering,4,2024,9.19,Frontend Developer,1,2
+219,26CO319,Aarav,Reddy,aarav.reddy219@university.edu,Computer Science & Engineering,2,2026,7.94,Frontend Developer,4,2
+220,26EL320,Sai,Kulkarni,sai.kulkarni220@university.edu,Electronics & Communication,2,2026,8.1,Python Developer,4,3
+221,25CO321,Ananya,Singh,ananya.singh221@university.edu,Computer Science & Engineering,3,2025,7.73,Data Analyst,1,1
+222,24AI322,Tanvi,Singh,tanvi.singh222@university.edu,AI & Data Science,4,2024,8.64,Full Stack Developer,4,0
+223,24CO323,Ananya,Deshmukh,ananya.deshmukh223@university.edu,Computer Science & Engineering,4,2024,8.35,Backend Developer,3,0
+224,25IN324,Vivaan,Chatterjee,vivaan.chatterjee224@university.edu,Information Technology,3,2025,7.35,DevOps Engineer,2,1
+225,24EL325,Ishaan,Joshi,ishaan.joshi225@university.edu,Electronics & Communication,4,2024,8.83,Java Developer,2,1
+226,24CO326,Vihaan,Agarwal,vihaan.agarwal226@university.edu,Computer Science & Engineering,4,2024,8.06,Python Developer,4,0
+227,25EL327,Ananya,Menon,ananya.menon227@university.edu,Electronics & Communication,3,2025,7.36,Frontend Developer,3,3
+228,24AI328,Sai,Joshi,sai.joshi228@university.edu,AI & Data Science,4,2024,6.46,Machine Learning Engineer,1,2
+229,26IN329,Sai,Joshi,sai.joshi229@university.edu,Information Technology,2,2026,7.3,Data Analyst,1,0
+230,26IN330,Aarav,Menon,aarav.menon230@university.edu,Information Technology,2,2026,8.68,DevOps Engineer,2,2
+231,25EL331,Krishna,Choudhury,krishna.choudhury231@university.edu,Electronics & Communication,3,2025,9.04,Backend Developer,3,1
+232,26CO332,Aditya,Reddy,aditya.reddy232@university.edu,Computer Science & Engineering,2,2026,9.11,Data Analyst,2,3
+233,26AI333,Riya,Nair,riya.nair233@university.edu,AI & Data Science,2,2026,7.35,DevOps Engineer,3,2
+234,25CO334,Ayaan,Iyer,ayaan.iyer234@university.edu,Computer Science & Engineering,3,2025,9.89,Python Developer,2,3
+235,25IN335,Aarav,Chatterjee,aarav.chatterjee235@university.edu,Information Technology,3,2025,8.56,DevOps Engineer,1,2
+236,26IN336,Tanvi,Nair,tanvi.nair236@university.edu,Information Technology,2,2026,7.85,Python Developer,3,0
+237,25EL337,Sneha,Rao,sneha.rao237@university.edu,Electronics & Communication,3,2025,8.7,Machine Learning Engineer,1,3
+238,24CO338,Riya,Choudhury,riya.choudhury238@university.edu,Computer Science & Engineering,4,2024,7.57,Full Stack Developer,1,0
+239,24CO339,Reyansh,Iyer,reyansh.iyer239@university.edu,Computer Science & Engineering,4,2024,8.64,Full Stack Developer,4,0
+240,26IN340,Ayaan,Das,ayaan.das240@university.edu,Information Technology,2,2026,8.04,Python Developer,4,1
+241,26AI341,Tanvi,Bhat,tanvi.bhat241@university.edu,AI & Data Science,2,2026,7.29,DevOps Engineer,2,0
+242,26EL342,Ananya,Bhat,ananya.bhat242@university.edu,Electronics & Communication,2,2026,8.16,Python Developer,4,3
+243,24IN343,Diya,Iyer,diya.iyer243@university.edu,Information Technology,4,2024,8.35,Machine Learning Engineer,1,1
+244,26AI344,Vihaan,Rao,vihaan.rao244@university.edu,AI & Data Science,2,2026,8.15,Python Developer,4,3
+245,26IN345,Sneha,Das,sneha.das245@university.edu,Information Technology,2,2026,8.33,Machine Learning Engineer,4,2
+246,24EL346,Ishaan,Das,ishaan.das246@university.edu,Electronics & Communication,4,2024,7.41,Python Developer,3,2
+247,24AI347,Aditya,Chatterjee,aditya.chatterjee247@university.edu,AI & Data Science,4,2024,7.56,Java Developer,1,2
+248,24EL348,Tanvi,Nair,tanvi.nair248@university.edu,Electronics & Communication,4,2024,8.94,Backend Developer,1,2
+249,26EL349,Aadhya,Kulkarni,aadhya.kulkarni249@university.edu,Electronics & Communication,2,2026,8.32,DevOps Engineer,2,0
+250,26EL350,Ishaan,Choudhury,ishaan.choudhury250@university.edu,Electronics & Communication,2,2026,8.39,Frontend Developer,2,3
+251,26AI351,Aadhya,Nair,aadhya.nair251@university.edu,AI & Data Science,2,2026,8.42,Machine Learning Engineer,4,1
+252,26IN352,Vihaan,Menon,vihaan.menon252@university.edu,Information Technology,2,2026,7.12,Python Developer,2,1
+253,25AI353,Aditya,Nair,aditya.nair253@university.edu,AI & Data Science,3,2025,7.99,Data Analyst,2,0
+254,26EL354,Riya,Patel,riya.patel254@university.edu,Electronics & Communication,2,2026,7.88,Machine Learning Engineer,2,0
+255,25CO355,Sai,Sharma,sai.sharma255@university.edu,Computer Science & Engineering,3,2025,8.02,Machine Learning Engineer,3,1
+256,24CO356,Meera,Bose,meera.bose256@university.edu,Computer Science & Engineering,4,2024,8.63,Frontend Developer,1,3
+257,24IN357,Aadhya,Sharma,aadhya.sharma257@university.edu,Information Technology,4,2024,8.66,Data Analyst,2,0
+258,26IN358,Reyansh,Agarwal,reyansh.agarwal258@university.edu,Information Technology,2,2026,8.17,Frontend Developer,1,1
+259,24EL359,Vivaan,Deshmukh,vivaan.deshmukh259@university.edu,Electronics & Communication,4,2024,8.03,Backend Developer,3,0
+260,24AI360,Ananya,Verma,ananya.verma260@university.edu,AI & Data Science,4,2024,8.12,Backend Developer,1,3
+261,25CO361,Meera,Bhat,meera.bhat261@university.edu,Computer Science & Engineering,3,2025,7.17,Full Stack Developer,3,0
+262,26IN362,Diya,Choudhury,diya.choudhury262@university.edu,Information Technology,2,2026,8.93,DevOps Engineer,3,2
+263,25AI363,Ananya,Bhat,ananya.bhat263@university.edu,AI & Data Science,3,2025,7.94,Java Developer,4,1
+264,25IN364,Aarav,Rao,aarav.rao264@university.edu,Information Technology,3,2025,8.39,Frontend Developer,2,2
+265,26CO365,Riya,Patel,riya.patel265@university.edu,Computer Science & Engineering,2,2026,8.37,Backend Developer,2,3
+266,26EL366,Pooja,Chatterjee,pooja.chatterjee266@university.edu,Electronics & Communication,2,2026,7.85,Data Analyst,3,3
+267,24EL367,Aditya,Choudhury,aditya.choudhury267@university.edu,Electronics & Communication,4,2024,7.55,DevOps Engineer,3,3
+268,26CO368,Ayaan,Reddy,ayaan.reddy268@university.edu,Computer Science & Engineering,2,2026,8.84,Data Analyst,1,1
+269,26IN369,Arjun,Singh,arjun.singh269@university.edu,Information Technology,2,2026,8.02,Backend Developer,4,3
+270,26CO370,Tanvi,Sharma,tanvi.sharma270@university.edu,Computer Science & Engineering,2,2026,7.63,Frontend Developer,3,3
+271,26IN371,Isha,Choudhury,isha.choudhury271@university.edu,Information Technology,2,2026,7.88,DevOps Engineer,1,2
+272,25EL372,Tanvi,Rao,tanvi.rao272@university.edu,Electronics & Communication,3,2025,8.93,Backend Developer,1,1
+273,24EL373,Tanvi,Reddy,tanvi.reddy273@university.edu,Electronics & Communication,4,2024,8.59,Frontend Developer,3,2
+274,26EL374,Isha,Rao,isha.rao274@university.edu,Electronics & Communication,2,2026,7.93,Java Developer,3,0
+275,25EL375,Krishna,Nair,krishna.nair275@university.edu,Electronics & Communication,3,2025,8.58,Backend Developer,4,0
+276,25CO376,Sai,Iyer,sai.iyer276@university.edu,Computer Science & Engineering,3,2025,9.1,Full Stack Developer,3,2
+277,26EL377,Ishaan,Bhat,ishaan.bhat277@university.edu,Electronics & Communication,2,2026,7.81,Frontend Developer,3,0
+278,25EL378,Arjun,Mehta,arjun.mehta278@university.edu,Electronics & Communication,3,2025,6.9,Backend Developer,2,3
+279,24EL379,Ayaan,Bhat,ayaan.bhat279@university.edu,Electronics & Communication,4,2024,7.77,Java Developer,1,3
+280,25AI380,Pooja,Patel,pooja.patel280@university.edu,AI & Data Science,3,2025,8.78,Machine Learning Engineer,2,3
+281,26IN381,Pooja,Rao,pooja.rao281@university.edu,Information Technology,2,2026,9.49,Data Analyst,4,3
+282,24CO382,Pooja,Mehta,pooja.mehta282@university.edu,Computer Science & Engineering,4,2024,8.14,Machine Learning Engineer,4,1
+283,25IN383,Aditya,Chatterjee,aditya.chatterjee283@university.edu,Information Technology,3,2025,8.47,Python Developer,4,2
+284,26EL384,Arjun,Rao,arjun.rao284@university.edu,Electronics & Communication,2,2026,8.74,Full Stack Developer,4,1
+285,26CO385,Aarav,Agarwal,aarav.agarwal285@university.edu,Computer Science & Engineering,2,2026,8.4,Machine Learning Engineer,3,3
+286,25IN386,Sneha,Deshmukh,sneha.deshmukh286@university.edu,Information Technology,3,2025,9.3,DevOps Engineer,4,3
+287,24IN387,Isha,Choudhury,isha.choudhury287@university.edu,Information Technology,4,2024,8.63,Java Developer,2,3
+288,24IN388,Pooja,Reddy,pooja.reddy288@university.edu,Information Technology,4,2024,8.76,DevOps Engineer,1,2
+289,25IN389,Tanvi,Mehta,tanvi.mehta289@university.edu,Information Technology,3,2025,8.98,Java Developer,3,0
+290,25AI390,Vivaan,Bhat,vivaan.bhat290@university.edu,AI & Data Science,3,2025,7.84,Full Stack Developer,3,3
+291,24CO391,Isha,Singh,isha.singh291@university.edu,Computer Science & Engineering,4,2024,8.02,Backend Developer,4,0
+292,26IN392,Diya,Kulkarni,diya.kulkarni292@university.edu,Information Technology,2,2026,7.54,Full Stack Developer,3,3
+293,25EL393,Ayaan,Sharma,ayaan.sharma293@university.edu,Electronics & Communication,3,2025,7.99,Frontend Developer,4,3
+294,24IN394,Arjun,Agarwal,arjun.agarwal294@university.edu,Information Technology,4,2024,7.81,Frontend Developer,1,2
+295,26IN395,Vihaan,Verma,vihaan.verma295@university.edu,Information Technology,2,2026,8.32,Backend Developer,2,1
+296,26EL396,Meera,Iyer,meera.iyer296@university.edu,Electronics & Communication,2,2026,8.65,Data Analyst,4,3
+297,24AI397,Vihaan,Iyer,vihaan.iyer297@university.edu,AI & Data Science,4,2024,8.45,Data Analyst,3,2
+298,26EL398,Meera,Das,meera.das298@university.edu,Electronics & Communication,2,2026,7.37,DevOps Engineer,3,3
+299,24EL399,Pooja,Sharma,pooja.sharma299@university.edu,Electronics & Communication,4,2024,6.97,DevOps Engineer,4,0
+300,24IN400,Vihaan,Bose,vihaan.bose300@university.edu,Information Technology,4,2024,8.04,Full Stack Developer,3,2

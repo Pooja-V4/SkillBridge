@@ -1,0 +1,2890 @@
+id,student_id,skill_id,skill_name,proficiency_level,experience_months
+1,1,6,React,3,12
+2,1,3,JavaScript,3,9
+3,1,10,Spring Boot,4,24
+4,1,7,HTML5 & CSS3,3,15
+5,1,14,PostgreSQL,5,15
+6,1,17,Git & GitHub,4,16
+7,1,18,Docker,1,3
+8,1,8,Tailwind CSS,1,3
+9,1,12,RESTful APIs,1,3
+10,1,23,Problem Solving & DSA,3,12
+11,1,24,Teamwork & Collaboration,5,12
+12,2,2,Python,4,12
+13,2,12,RESTful APIs,4,20
+14,2,14,PostgreSQL,5,20
+15,2,17,Git & GitHub,5,30
+16,2,23,Problem Solving & DSA,3,15
+17,2,18,Docker,1,3
+18,2,21,Pandas & NumPy,2,8
+19,2,20,Machine Learning,2,8
+20,2,23,Problem Solving & DSA,5,12
+21,2,24,Teamwork & Collaboration,3,12
+22,3,2,Python,5,25
+23,3,21,Pandas & NumPy,4,12
+24,3,14,PostgreSQL,3,15
+25,3,15,MySQL,3,18
+26,3,23,Problem Solving & DSA,4,24
+27,3,20,Machine Learning,1,4
+28,3,17,Git & GitHub,2,6
+29,3,23,Problem Solving & DSA,4,12
+30,3,24,Teamwork & Collaboration,4,12
+31,4,18,Docker,5,20
+32,4,19,AWS (Amazon Web Services),4,24
+33,4,17,Git & GitHub,4,24
+34,4,2,Python,4,24
+35,4,13,Microservices,4,12
+36,4,14,PostgreSQL,2,6
+37,4,12,RESTful APIs,1,3
+38,5,2,Python,4,16
+39,5,12,RESTful APIs,4,12
+40,5,14,PostgreSQL,4,24
+41,5,17,Git & GitHub,3,15
+42,5,23,Problem Solving & DSA,5,25
+43,5,18,Docker,3,6
+44,5,20,Machine Learning,1,3
+45,5,21,Pandas & NumPy,3,12
+46,5,23,Problem Solving & DSA,3,12
+47,5,24,Teamwork & Collaboration,5,12
+48,6,1,Java,5,25
+49,6,10,Spring Boot,4,24
+50,6,12,RESTful APIs,3,12
+51,6,14,PostgreSQL,3,9
+52,6,18,Docker,4,16
+53,6,13,Microservices,4,12
+54,6,11,Node.js & Express,1,2
+55,6,19,AWS (Amazon Web Services),3,6
+56,6,17,Git & GitHub,2,6
+57,6,23,Problem Solving & DSA,3,12
+58,6,24,Teamwork & Collaboration,5,12
+59,7,1,Java,4,20
+60,7,10,Spring Boot,4,24
+61,7,12,RESTful APIs,5,15
+62,7,14,PostgreSQL,4,12
+63,7,18,Docker,3,15
+64,7,13,Microservices,5,15
+65,7,11,Node.js & Express,2,4
+66,7,19,AWS (Amazon Web Services),2,6
+67,7,17,Git & GitHub,2,4
+68,7,23,Problem Solving & DSA,5,12
+69,8,6,React,4,24
+70,8,3,JavaScript,5,20
+71,8,4,TypeScript,4,24
+72,8,7,HTML5 & CSS3,3,18
+73,8,8,Tailwind CSS,3,18
+74,8,17,Git & GitHub,3,15
+75,8,9,Angular,2,4
+76,8,23,Problem Solving & DSA,1,3
+77,8,12,RESTful APIs,2,8
+78,8,24,Teamwork & Collaboration,3,12
+79,9,1,Java,4,20
+80,9,10,Spring Boot,5,20
+81,9,12,RESTful APIs,4,20
+82,9,14,PostgreSQL,3,18
+83,9,18,Docker,3,15
+84,9,13,Microservices,4,12
+85,9,11,Node.js & Express,1,2
+86,9,17,Git & GitHub,2,4
+87,9,19,AWS (Amazon Web Services),3,6
+88,9,23,Problem Solving & DSA,4,12
+89,10,1,Java,5,20
+90,10,10,Spring Boot,3,9
+91,10,12,RESTful APIs,4,16
+92,10,14,PostgreSQL,3,12
+93,10,17,Git & GitHub,4,16
+94,10,23,Problem Solving & DSA,4,20
+95,10,7,HTML5 & CSS3,1,3
+96,10,13,Microservices,3,6
+97,10,18,Docker,1,2
+98,10,23,Problem Solving & DSA,4,12
+99,11,6,React,4,16
+100,11,3,JavaScript,4,12
+101,11,4,TypeScript,4,12
+102,11,7,HTML5 & CSS3,5,20
+103,11,8,Tailwind CSS,4,12
+104,11,17,Git & GitHub,4,24
+105,11,23,Problem Solving & DSA,3,6
+106,11,9,Angular,3,6
+107,11,12,RESTful APIs,1,3
+108,11,23,Problem Solving & DSA,4,12
+109,11,24,Teamwork & Collaboration,5,12
+110,12,6,React,5,20
+111,12,3,JavaScript,3,18
+112,12,10,Spring Boot,4,16
+113,12,7,HTML5 & CSS3,3,12
+114,12,14,PostgreSQL,4,20
+115,12,17,Git & GitHub,5,25
+116,12,12,RESTful APIs,2,8
+117,12,18,Docker,1,2
+118,12,8,Tailwind CSS,1,3
+119,12,24,Teamwork & Collaboration,4,12
+120,13,6,React,3,18
+121,13,3,JavaScript,3,12
+122,13,10,Spring Boot,4,12
+123,13,7,HTML5 & CSS3,5,25
+124,13,14,PostgreSQL,4,12
+125,13,17,Git & GitHub,4,20
+126,13,12,RESTful APIs,1,4
+127,13,18,Docker,1,2
+128,13,8,Tailwind CSS,1,4
+129,13,23,Problem Solving & DSA,5,12
+130,13,24,Teamwork & Collaboration,3,12
+131,14,1,Java,3,15
+132,14,10,Spring Boot,4,24
+133,14,12,RESTful APIs,4,24
+134,14,14,PostgreSQL,4,16
+135,14,17,Git & GitHub,4,20
+136,14,23,Problem Solving & DSA,4,20
+137,14,18,Docker,1,2
+138,14,7,HTML5 & CSS3,1,2
+139,14,13,Microservices,1,3
+140,14,23,Problem Solving & DSA,3,12
+141,14,24,Teamwork & Collaboration,5,12
+142,15,1,Java,3,18
+143,15,10,Spring Boot,3,12
+144,15,12,RESTful APIs,5,15
+145,15,14,PostgreSQL,4,24
+146,15,17,Git & GitHub,4,20
+147,15,23,Problem Solving & DSA,5,30
+148,15,7,HTML5 & CSS3,3,12
+149,15,15,MySQL,3,9
+150,15,13,Microservices,1,2
+151,15,23,Problem Solving & DSA,4,12
+152,15,24,Teamwork & Collaboration,5,12
+153,16,6,React,3,15
+154,16,3,JavaScript,5,15
+155,16,10,Spring Boot,3,12
+156,16,7,HTML5 & CSS3,4,16
+157,16,14,PostgreSQL,4,12
+158,16,17,Git & GitHub,4,20
+159,16,18,Docker,1,3
+160,16,8,Tailwind CSS,1,4
+161,16,4,TypeScript,3,6
+162,16,23,Problem Solving & DSA,5,12
+163,16,24,Teamwork & Collaboration,3,12
+164,17,1,Java,3,18
+165,17,10,Spring Boot,3,15
+166,17,12,RESTful APIs,4,24
+167,17,14,PostgreSQL,4,24
+168,17,18,Docker,5,15
+169,17,13,Microservices,5,15
+170,17,11,Node.js & Express,3,6
+171,17,17,Git & GitHub,1,3
+172,17,19,AWS (Amazon Web Services),1,3
+173,17,23,Problem Solving & DSA,4,12
+174,18,1,Java,3,9
+175,18,10,Spring Boot,4,12
+176,18,12,RESTful APIs,4,16
+177,18,14,PostgreSQL,3,9
+178,18,17,Git & GitHub,4,16
+179,18,23,Problem Solving & DSA,3,9
+180,18,13,Microservices,2,4
+181,18,7,HTML5 & CSS3,2,8
+182,18,15,MySQL,2,4
+183,18,23,Problem Solving & DSA,3,12
+184,18,24,Teamwork & Collaboration,4,12
+185,19,1,Java,5,15
+186,19,10,Spring Boot,4,12
+187,19,12,RESTful APIs,4,24
+188,19,14,PostgreSQL,4,12
+189,19,18,Docker,4,20
+190,19,13,Microservices,3,18
+191,19,17,Git & GitHub,3,12
+192,19,11,Node.js & Express,3,9
+193,19,19,AWS (Amazon Web Services),2,6
+194,19,24,Teamwork & Collaboration,5,12
+195,20,2,Python,5,15
+196,20,20,Machine Learning,3,18
+197,20,21,Pandas & NumPy,3,18
+198,20,22,Natural Language Processing (NLP),4,24
+199,20,23,Problem Solving & DSA,4,24
+200,20,17,Git & GitHub,1,3
+201,20,18,Docker,1,4
+202,20,14,PostgreSQL,2,6
+203,20,23,Problem Solving & DSA,5,12
+204,20,24,Teamwork & Collaboration,3,12
+205,21,18,Docker,3,12
+206,21,19,AWS (Amazon Web Services),4,16
+207,21,17,Git & GitHub,4,20
+208,21,2,Python,4,20
+209,21,13,Microservices,4,20
+210,21,12,RESTful APIs,1,3
+211,21,14,PostgreSQL,1,4
+212,22,18,Docker,5,20
+213,22,19,AWS (Amazon Web Services),3,15
+214,22,17,Git & GitHub,3,9
+215,22,2,Python,4,16
+216,22,13,Microservices,3,9
+217,22,12,RESTful APIs,2,6
+218,22,14,PostgreSQL,1,2
+219,22,23,Problem Solving & DSA,4,12
+220,22,24,Teamwork & Collaboration,4,12
+221,23,18,Docker,3,15
+222,23,19,AWS (Amazon Web Services),3,12
+223,23,17,Git & GitHub,3,18
+224,23,2,Python,4,16
+225,23,13,Microservices,4,24
+226,23,12,RESTful APIs,1,4
+227,23,14,PostgreSQL,3,9
+228,23,23,Problem Solving & DSA,3,12
+229,23,24,Teamwork & Collaboration,5,12
+230,24,6,React,3,9
+231,24,3,JavaScript,3,18
+232,24,10,Spring Boot,4,24
+233,24,7,HTML5 & CSS3,3,12
+234,24,14,PostgreSQL,3,15
+235,24,17,Git & GitHub,4,24
+236,24,4,TypeScript,3,12
+237,24,12,RESTful APIs,2,4
+238,24,18,Docker,2,8
+239,25,2,Python,4,20
+240,25,12,RESTful APIs,4,20
+241,25,14,PostgreSQL,4,24
+242,25,17,Git & GitHub,4,12
+243,25,23,Problem Solving & DSA,5,25
+244,25,20,Machine Learning,1,4
+245,25,21,Pandas & NumPy,3,12
+246,25,18,Docker,2,4
+247,25,23,Problem Solving & DSA,5,12
+248,25,24,Teamwork & Collaboration,5,12
+249,26,18,Docker,5,30
+250,26,19,AWS (Amazon Web Services),4,24
+251,26,17,Git & GitHub,5,30
+252,26,2,Python,4,20
+253,26,13,Microservices,4,12
+254,26,14,PostgreSQL,2,6
+255,26,12,RESTful APIs,1,3
+256,26,23,Problem Solving & DSA,5,12
+257,27,1,Java,3,15
+258,27,10,Spring Boot,4,24
+259,27,12,RESTful APIs,4,12
+260,27,14,PostgreSQL,3,12
+261,27,17,Git & GitHub,5,30
+262,27,23,Problem Solving & DSA,5,30
+263,27,18,Docker,2,6
+264,27,7,HTML5 & CSS3,2,8
+265,27,15,MySQL,2,4
+266,27,23,Problem Solving & DSA,3,12
+267,27,24,Teamwork & Collaboration,3,12
+268,28,2,Python,5,20
+269,28,12,RESTful APIs,4,16
+270,28,14,PostgreSQL,4,16
+271,28,17,Git & GitHub,5,25
+272,28,23,Problem Solving & DSA,4,24
+273,28,21,Pandas & NumPy,1,3
+274,28,20,Machine Learning,3,12
+275,28,18,Docker,3,9
+276,28,23,Problem Solving & DSA,4,12
+277,28,24,Teamwork & Collaboration,4,12
+278,29,1,Java,5,30
+279,29,10,Spring Boot,3,18
+280,29,12,RESTful APIs,4,24
+281,29,14,PostgreSQL,4,16
+282,29,18,Docker,4,12
+283,29,13,Microservices,3,15
+284,29,11,Node.js & Express,2,6
+285,29,17,Git & GitHub,1,2
+286,29,19,AWS (Amazon Web Services),2,8
+287,29,23,Problem Solving & DSA,3,12
+288,29,24,Teamwork & Collaboration,4,12
+289,30,6,React,5,30
+290,30,3,JavaScript,5,15
+291,30,10,Spring Boot,4,16
+292,30,7,HTML5 & CSS3,4,20
+293,30,14,PostgreSQL,5,15
+294,30,17,Git & GitHub,4,12
+295,30,4,TypeScript,2,4
+296,30,8,Tailwind CSS,1,2
+297,30,18,Docker,1,3
+298,30,23,Problem Solving & DSA,3,12
+299,30,24,Teamwork & Collaboration,5,12
+300,31,1,Java,3,15
+301,31,10,Spring Boot,4,12
+302,31,12,RESTful APIs,5,30
+303,31,14,PostgreSQL,5,20
+304,31,18,Docker,3,15
+305,31,13,Microservices,5,25
+306,31,19,AWS (Amazon Web Services),2,6
+307,31,17,Git & GitHub,1,3
+308,31,11,Node.js & Express,3,6
+309,31,24,Teamwork & Collaboration,5,12
+310,32,2,Python,4,12
+311,32,20,Machine Learning,5,30
+312,32,21,Pandas & NumPy,5,25
+313,32,22,Natural Language Processing (NLP),4,16
+314,32,23,Problem Solving & DSA,4,20
+315,32,18,Docker,2,8
+316,32,14,PostgreSQL,2,8
+317,32,17,Git & GitHub,3,12
+318,32,24,Teamwork & Collaboration,3,12
+319,33,2,Python,3,12
+320,33,12,RESTful APIs,4,20
+321,33,14,PostgreSQL,4,20
+322,33,17,Git & GitHub,5,25
+323,33,23,Problem Solving & DSA,5,30
+324,33,21,Pandas & NumPy,2,4
+325,33,20,Machine Learning,1,2
+326,33,18,Docker,3,12
+327,33,23,Problem Solving & DSA,4,12
+328,33,24,Teamwork & Collaboration,5,12
+329,34,2,Python,4,20
+330,34,12,RESTful APIs,4,20
+331,34,14,PostgreSQL,3,12
+332,34,17,Git & GitHub,4,20
+333,34,23,Problem Solving & DSA,5,20
+334,34,20,Machine Learning,3,9
+335,34,18,Docker,2,4
+336,34,21,Pandas & NumPy,1,2
+337,34,23,Problem Solving & DSA,4,12
+338,35,2,Python,4,24
+339,35,20,Machine Learning,4,20
+340,35,21,Pandas & NumPy,3,15
+341,35,22,Natural Language Processing (NLP),3,18
+342,35,23,Problem Solving & DSA,5,25
+343,35,18,Docker,1,3
+344,35,17,Git & GitHub,1,2
+345,35,14,PostgreSQL,3,9
+346,36,1,Java,3,12
+347,36,10,Spring Boot,4,16
+348,36,12,RESTful APIs,4,16
+349,36,14,PostgreSQL,4,12
+350,36,18,Docker,3,12
+351,36,13,Microservices,5,25
+352,36,11,Node.js & Express,1,3
+353,36,19,AWS (Amazon Web Services),2,4
+354,36,17,Git & GitHub,2,4
+355,37,2,Python,4,12
+356,37,21,Pandas & NumPy,4,20
+357,37,14,PostgreSQL,4,12
+358,37,15,MySQL,3,18
+359,37,23,Problem Solving & DSA,5,30
+360,37,20,Machine Learning,2,6
+361,37,17,Git & GitHub,1,2
+362,37,23,Problem Solving & DSA,3,12
+363,38,2,Python,3,9
+364,38,12,RESTful APIs,5,20
+365,38,14,PostgreSQL,4,16
+366,38,17,Git & GitHub,4,24
+367,38,23,Problem Solving & DSA,4,12
+368,38,21,Pandas & NumPy,2,6
+369,38,20,Machine Learning,3,12
+370,38,18,Docker,3,6
+371,39,2,Python,4,24
+372,39,21,Pandas & NumPy,5,15
+373,39,14,PostgreSQL,5,25
+374,39,15,MySQL,4,16
+375,39,23,Problem Solving & DSA,3,18
+376,39,20,Machine Learning,1,4
+377,39,17,Git & GitHub,1,3
+378,39,23,Problem Solving & DSA,4,12
+379,39,24,Teamwork & Collaboration,5,12
+380,40,2,Python,3,15
+381,40,12,RESTful APIs,5,25
+382,40,14,PostgreSQL,3,12
+383,40,17,Git & GitHub,4,24
+384,40,23,Problem Solving & DSA,3,9
+385,40,18,Docker,2,6
+386,40,20,Machine Learning,1,3
+387,40,21,Pandas & NumPy,2,8
+388,40,23,Problem Solving & DSA,3,12
+389,41,18,Docker,3,9
+390,41,19,AWS (Amazon Web Services),4,12
+391,41,17,Git & GitHub,3,18
+392,41,2,Python,4,20
+393,41,13,Microservices,3,18
+394,41,14,PostgreSQL,1,2
+395,41,12,RESTful APIs,2,6
+396,42,2,Python,3,9
+397,42,20,Machine Learning,4,24
+398,42,21,Pandas & NumPy,5,25
+399,42,22,Natural Language Processing (NLP),4,24
+400,42,23,Problem Solving & DSA,4,24
+401,42,17,Git & GitHub,1,3
+402,42,18,Docker,1,4
+403,42,14,PostgreSQL,2,8
+404,42,23,Problem Solving & DSA,3,12
+405,42,24,Teamwork & Collaboration,3,12
+406,43,2,Python,4,12
+407,43,21,Pandas & NumPy,4,12
+408,43,14,PostgreSQL,4,16
+409,43,15,MySQL,5,25
+410,43,23,Problem Solving & DSA,4,16
+411,43,20,Machine Learning,1,2
+412,43,17,Git & GitHub,1,2
+413,43,23,Problem Solving & DSA,5,12
+414,44,2,Python,4,24
+415,44,21,Pandas & NumPy,4,20
+416,44,14,PostgreSQL,4,12
+417,44,15,MySQL,4,12
+418,44,23,Problem Solving & DSA,4,24
+419,44,20,Machine Learning,1,3
+420,44,17,Git & GitHub,1,2
+421,44,23,Problem Solving & DSA,5,12
+422,44,24,Teamwork & Collaboration,5,12
+423,45,18,Docker,4,20
+424,45,19,AWS (Amazon Web Services),5,15
+425,45,17,Git & GitHub,4,16
+426,45,2,Python,3,18
+427,45,13,Microservices,5,20
+428,45,12,RESTful APIs,3,9
+429,45,14,PostgreSQL,2,6
+430,45,23,Problem Solving & DSA,3,12
+431,45,24,Teamwork & Collaboration,5,12
+432,46,2,Python,4,16
+433,46,20,Machine Learning,4,16
+434,46,21,Pandas & NumPy,5,25
+435,46,22,Natural Language Processing (NLP),5,30
+436,46,23,Problem Solving & DSA,3,9
+437,46,17,Git & GitHub,3,12
+438,46,14,PostgreSQL,2,8
+439,46,18,Docker,3,12
+440,46,24,Teamwork & Collaboration,5,12
+441,47,18,Docker,5,20
+442,47,19,AWS (Amazon Web Services),3,9
+443,47,17,Git & GitHub,4,12
+444,47,2,Python,4,16
+445,47,13,Microservices,4,16
+446,47,14,PostgreSQL,3,12
+447,47,12,RESTful APIs,3,6
+448,47,23,Problem Solving & DSA,3,12
+449,47,24,Teamwork & Collaboration,5,12
+450,48,18,Docker,4,24
+451,48,19,AWS (Amazon Web Services),5,20
+452,48,17,Git & GitHub,4,24
+453,48,2,Python,4,20
+454,48,13,Microservices,4,24
+455,48,14,PostgreSQL,3,6
+456,48,12,RESTful APIs,3,6
+457,48,23,Problem Solving & DSA,4,12
+458,48,24,Teamwork & Collaboration,3,12
+459,49,6,React,5,20
+460,49,3,JavaScript,5,25
+461,49,4,TypeScript,5,30
+462,49,7,HTML5 & CSS3,3,15
+463,49,8,Tailwind CSS,3,9
+464,49,17,Git & GitHub,4,12
+465,49,12,RESTful APIs,2,4
+466,49,9,Angular,1,3
+467,49,23,Problem Solving & DSA,2,4
+468,49,23,Problem Solving & DSA,4,12
+469,49,24,Teamwork & Collaboration,3,12
+470,50,6,React,4,16
+471,50,3,JavaScript,4,12
+472,50,4,TypeScript,3,18
+473,50,7,HTML5 & CSS3,3,18
+474,50,8,Tailwind CSS,4,12
+475,50,17,Git & GitHub,4,16
+476,50,23,Problem Solving & DSA,2,8
+477,50,9,Angular,1,4
+478,50,12,RESTful APIs,2,8
+479,50,23,Problem Solving & DSA,5,12
+480,50,24,Teamwork & Collaboration,3,12
+481,51,2,Python,4,20
+482,51,20,Machine Learning,4,20
+483,51,21,Pandas & NumPy,3,9
+484,51,22,Natural Language Processing (NLP),4,20
+485,51,23,Problem Solving & DSA,3,15
+486,51,14,PostgreSQL,3,12
+487,51,17,Git & GitHub,2,8
+488,51,18,Docker,2,4
+489,51,23,Problem Solving & DSA,3,12
+490,51,24,Teamwork & Collaboration,4,12
+491,52,1,Java,5,30
+492,52,10,Spring Boot,5,30
+493,52,12,RESTful APIs,3,12
+494,52,14,PostgreSQL,3,9
+495,52,18,Docker,5,25
+496,52,13,Microservices,3,15
+497,52,17,Git & GitHub,3,9
+498,52,19,AWS (Amazon Web Services),1,2
+499,52,11,Node.js & Express,2,6
+500,52,23,Problem Solving & DSA,5,12
+501,53,2,Python,3,15
+502,53,12,RESTful APIs,4,24
+503,53,14,PostgreSQL,3,18
+504,53,17,Git & GitHub,4,12
+505,53,23,Problem Solving & DSA,4,20
+506,53,20,Machine Learning,2,4
+507,53,21,Pandas & NumPy,1,4
+508,53,18,Docker,2,8
+509,53,23,Problem Solving & DSA,5,12
+510,54,6,React,4,20
+511,54,3,JavaScript,4,12
+512,54,4,TypeScript,4,24
+513,54,7,HTML5 & CSS3,5,25
+514,54,8,Tailwind CSS,4,12
+515,54,17,Git & GitHub,4,20
+516,54,12,RESTful APIs,1,2
+517,54,23,Problem Solving & DSA,1,2
+518,54,9,Angular,2,6
+519,54,23,Problem Solving & DSA,3,12
+520,55,18,Docker,3,9
+521,55,19,AWS (Amazon Web Services),4,24
+522,55,17,Git & GitHub,5,25
+523,55,2,Python,4,12
+524,55,13,Microservices,4,20
+525,55,12,RESTful APIs,2,8
+526,55,14,PostgreSQL,2,6
+527,55,23,Problem Solving & DSA,3,12
+528,55,24,Teamwork & Collaboration,3,12
+529,56,2,Python,4,12
+530,56,21,Pandas & NumPy,3,18
+531,56,14,PostgreSQL,5,30
+532,56,15,MySQL,4,24
+533,56,23,Problem Solving & DSA,5,15
+534,56,20,Machine Learning,2,6
+535,56,17,Git & GitHub,2,8
+536,56,23,Problem Solving & DSA,5,12
+537,56,24,Teamwork & Collaboration,3,12
+538,57,6,React,4,20
+539,57,3,JavaScript,5,25
+540,57,4,TypeScript,3,15
+541,57,7,HTML5 & CSS3,3,15
+542,57,8,Tailwind CSS,4,12
+543,57,17,Git & GitHub,4,16
+544,57,23,Problem Solving & DSA,2,8
+545,57,9,Angular,3,9
+546,57,12,RESTful APIs,3,12
+547,57,24,Teamwork & Collaboration,3,12
+548,58,1,Java,4,20
+549,58,10,Spring Boot,4,20
+550,58,12,RESTful APIs,4,24
+551,58,14,PostgreSQL,3,9
+552,58,18,Docker,4,16
+553,58,13,Microservices,4,24
+554,58,17,Git & GitHub,2,6
+555,58,11,Node.js & Express,3,9
+556,58,19,AWS (Amazon Web Services),2,6
+557,58,23,Problem Solving & DSA,3,12
+558,58,24,Teamwork & Collaboration,5,12
+559,59,1,Java,3,18
+560,59,10,Spring Boot,5,30
+561,59,12,RESTful APIs,3,12
+562,59,14,PostgreSQL,5,25
+563,59,18,Docker,3,12
+564,59,13,Microservices,4,24
+565,59,17,Git & GitHub,1,3
+566,59,19,AWS (Amazon Web Services),2,4
+567,59,11,Node.js & Express,1,3
+568,60,1,Java,3,15
+569,60,10,Spring Boot,4,24
+570,60,12,RESTful APIs,4,24
+571,60,14,PostgreSQL,3,12
+572,60,17,Git & GitHub,4,20
+573,60,23,Problem Solving & DSA,3,18
+574,60,15,MySQL,1,2
+575,60,7,HTML5 & CSS3,1,3
+576,60,18,Docker,2,6
+577,60,23,Problem Solving & DSA,3,12
+578,60,24,Teamwork & Collaboration,4,12
+579,61,18,Docker,4,16
+580,61,19,AWS (Amazon Web Services),4,20
+581,61,17,Git & GitHub,3,15
+582,61,2,Python,4,24
+583,61,13,Microservices,4,20
+584,61,12,RESTful APIs,1,4
+585,61,14,PostgreSQL,1,3
+586,61,23,Problem Solving & DSA,5,12
+587,61,24,Teamwork & Collaboration,5,12
+588,62,1,Java,3,18
+589,62,10,Spring Boot,3,12
+590,62,12,RESTful APIs,3,9
+591,62,14,PostgreSQL,3,18
+592,62,18,Docker,4,16
+593,62,13,Microservices,4,16
+594,62,17,Git & GitHub,2,8
+595,62,19,AWS (Amazon Web Services),1,3
+596,62,11,Node.js & Express,3,9
+597,62,23,Problem Solving & DSA,4,12
+598,62,24,Teamwork & Collaboration,4,12
+599,63,2,Python,5,25
+600,63,12,RESTful APIs,4,16
+601,63,14,PostgreSQL,5,25
+602,63,17,Git & GitHub,4,16
+603,63,23,Problem Solving & DSA,4,24
+604,63,21,Pandas & NumPy,2,8
+605,63,20,Machine Learning,1,2
+606,63,18,Docker,2,8
+607,63,23,Problem Solving & DSA,4,12
+608,63,24,Teamwork & Collaboration,3,12
+609,64,6,React,4,24
+610,64,3,JavaScript,3,15
+611,64,10,Spring Boot,5,25
+612,64,7,HTML5 & CSS3,3,12
+613,64,14,PostgreSQL,3,12
+614,64,17,Git & GitHub,4,12
+615,64,4,TypeScript,2,4
+616,64,8,Tailwind CSS,2,4
+617,64,12,RESTful APIs,1,4
+618,64,23,Problem Solving & DSA,3,12
+619,64,24,Teamwork & Collaboration,4,12
+620,65,6,React,5,20
+621,65,3,JavaScript,4,16
+622,65,10,Spring Boot,5,15
+623,65,7,HTML5 & CSS3,5,30
+624,65,14,PostgreSQL,4,16
+625,65,17,Git & GitHub,5,25
+626,65,4,TypeScript,2,4
+627,65,18,Docker,3,9
+628,65,8,Tailwind CSS,1,4
+629,65,23,Problem Solving & DSA,4,12
+630,65,24,Teamwork & Collaboration,3,12
+631,66,6,React,4,20
+632,66,3,JavaScript,4,12
+633,66,10,Spring Boot,4,20
+634,66,7,HTML5 & CSS3,4,16
+635,66,14,PostgreSQL,3,18
+636,66,17,Git & GitHub,5,25
+637,66,4,TypeScript,1,2
+638,66,8,Tailwind CSS,2,4
+639,66,18,Docker,1,3
+640,66,24,Teamwork & Collaboration,4,12
+641,67,1,Java,4,24
+642,67,10,Spring Boot,4,20
+643,67,12,RESTful APIs,4,20
+644,67,14,PostgreSQL,4,16
+645,67,17,Git & GitHub,3,12
+646,67,23,Problem Solving & DSA,4,24
+647,67,15,MySQL,2,8
+648,67,13,Microservices,3,6
+649,67,7,HTML5 & CSS3,2,8
+650,67,23,Problem Solving & DSA,3,12
+651,67,24,Teamwork & Collaboration,5,12
+652,68,1,Java,4,24
+653,68,10,Spring Boot,3,12
+654,68,12,RESTful APIs,4,24
+655,68,14,PostgreSQL,3,18
+656,68,18,Docker,5,30
+657,68,13,Microservices,3,18
+658,68,17,Git & GitHub,2,6
+659,68,11,Node.js & Express,2,6
+660,68,19,AWS (Amazon Web Services),1,2
+661,68,23,Problem Solving & DSA,5,12
+662,69,6,React,3,12
+663,69,3,JavaScript,4,24
+664,69,10,Spring Boot,4,24
+665,69,7,HTML5 & CSS3,4,24
+666,69,14,PostgreSQL,4,16
+667,69,17,Git & GitHub,4,20
+668,69,4,TypeScript,2,8
+669,69,18,Docker,3,6
+670,69,8,Tailwind CSS,2,6
+671,69,23,Problem Solving & DSA,5,12
+672,69,24,Teamwork & Collaboration,5,12
+673,70,2,Python,3,9
+674,70,21,Pandas & NumPy,3,18
+675,70,14,PostgreSQL,4,12
+676,70,15,MySQL,3,9
+677,70,23,Problem Solving & DSA,3,9
+678,70,17,Git & GitHub,1,2
+679,70,20,Machine Learning,2,4
+680,70,23,Problem Solving & DSA,3,12
+681,71,2,Python,5,20
+682,71,21,Pandas & NumPy,4,20
+683,71,14,PostgreSQL,3,12
+684,71,15,MySQL,4,24
+685,71,23,Problem Solving & DSA,4,12
+686,71,17,Git & GitHub,2,6
+687,71,20,Machine Learning,2,6
+688,71,24,Teamwork & Collaboration,5,12
+689,72,6,React,4,24
+690,72,3,JavaScript,4,16
+691,72,4,TypeScript,4,20
+692,72,7,HTML5 & CSS3,3,9
+693,72,8,Tailwind CSS,5,25
+694,72,17,Git & GitHub,3,12
+695,72,9,Angular,2,8
+696,72,12,RESTful APIs,1,2
+697,72,23,Problem Solving & DSA,1,4
+698,72,23,Problem Solving & DSA,5,12
+699,73,6,React,4,16
+700,73,3,JavaScript,4,16
+701,73,10,Spring Boot,4,20
+702,73,7,HTML5 & CSS3,4,20
+703,73,14,PostgreSQL,4,20
+704,73,17,Git & GitHub,4,24
+705,73,18,Docker,2,6
+706,73,4,TypeScript,3,9
+707,73,8,Tailwind CSS,1,2
+708,73,23,Problem Solving & DSA,3,12
+709,73,24,Teamwork & Collaboration,3,12
+710,74,6,React,3,12
+711,74,3,JavaScript,4,20
+712,74,4,TypeScript,3,18
+713,74,7,HTML5 & CSS3,5,30
+714,74,8,Tailwind CSS,4,20
+715,74,17,Git & GitHub,3,18
+716,74,9,Angular,3,6
+717,74,23,Problem Solving & DSA,3,12
+718,74,12,RESTful APIs,1,2
+719,74,23,Problem Solving & DSA,5,12
+720,75,18,Docker,3,18
+721,75,19,AWS (Amazon Web Services),3,15
+722,75,17,Git & GitHub,4,20
+723,75,2,Python,3,18
+724,75,13,Microservices,5,20
+725,75,14,PostgreSQL,2,4
+726,75,12,RESTful APIs,1,4
+727,75,24,Teamwork & Collaboration,4,12
+728,76,1,Java,4,12
+729,76,10,Spring Boot,4,12
+730,76,12,RESTful APIs,3,18
+731,76,14,PostgreSQL,4,24
+732,76,18,Docker,3,9
+733,76,13,Microservices,4,12
+734,76,17,Git & GitHub,2,4
+735,76,19,AWS (Amazon Web Services),3,6
+736,76,11,Node.js & Express,1,4
+737,76,23,Problem Solving & DSA,4,12
+738,77,1,Java,5,25
+739,77,10,Spring Boot,3,12
+740,77,12,RESTful APIs,4,24
+741,77,14,PostgreSQL,4,20
+742,77,18,Docker,4,16
+743,77,13,Microservices,4,12
+744,77,19,AWS (Amazon Web Services),1,2
+745,77,17,Git & GitHub,3,9
+746,77,11,Node.js & Express,2,8
+747,77,23,Problem Solving & DSA,4,12
+748,77,24,Teamwork & Collaboration,4,12
+749,78,1,Java,4,24
+750,78,10,Spring Boot,3,15
+751,78,12,RESTful APIs,4,12
+752,78,14,PostgreSQL,3,12
+753,78,18,Docker,4,16
+754,78,13,Microservices,4,20
+755,78,17,Git & GitHub,1,3
+756,78,11,Node.js & Express,2,6
+757,78,19,AWS (Amazon Web Services),1,2
+758,78,24,Teamwork & Collaboration,5,12
+759,79,2,Python,3,18
+760,79,21,Pandas & NumPy,4,16
+761,79,14,PostgreSQL,4,16
+762,79,15,MySQL,4,16
+763,79,23,Problem Solving & DSA,3,15
+764,79,17,Git & GitHub,1,2
+765,79,20,Machine Learning,2,6
+766,79,24,Teamwork & Collaboration,4,12
+767,80,1,Java,3,9
+768,80,10,Spring Boot,5,25
+769,80,12,RESTful APIs,5,30
+770,80,14,PostgreSQL,5,25
+771,80,18,Docker,4,24
+772,80,13,Microservices,5,20
+773,80,17,Git & GitHub,2,4
+774,80,19,AWS (Amazon Web Services),3,9
+775,80,11,Node.js & Express,1,4
+776,80,23,Problem Solving & DSA,5,12
+777,80,24,Teamwork & Collaboration,4,12
+778,81,6,React,5,20
+779,81,3,JavaScript,4,20
+780,81,4,TypeScript,5,15
+781,81,7,HTML5 & CSS3,5,30
+782,81,8,Tailwind CSS,4,16
+783,81,17,Git & GitHub,4,16
+784,81,12,RESTful APIs,2,4
+785,81,9,Angular,2,8
+786,81,23,Problem Solving & DSA,2,6
+787,81,23,Problem Solving & DSA,5,12
+788,81,24,Teamwork & Collaboration,3,12
+789,82,1,Java,4,12
+790,82,10,Spring Boot,4,24
+791,82,12,RESTful APIs,5,25
+792,82,14,PostgreSQL,5,30
+793,82,18,Docker,3,9
+794,82,13,Microservices,3,12
+795,82,17,Git & GitHub,2,8
+796,82,19,AWS (Amazon Web Services),2,8
+797,82,11,Node.js & Express,1,2
+798,82,23,Problem Solving & DSA,4,12
+799,82,24,Teamwork & Collaboration,3,12
+800,83,18,Docker,3,18
+801,83,19,AWS (Amazon Web Services),4,20
+802,83,17,Git & GitHub,3,9
+803,83,2,Python,3,15
+804,83,13,Microservices,4,16
+805,83,14,PostgreSQL,2,6
+806,83,12,RESTful APIs,2,6
+807,83,24,Teamwork & Collaboration,3,12
+808,84,1,Java,4,16
+809,84,10,Spring Boot,3,9
+810,84,12,RESTful APIs,4,16
+811,84,14,PostgreSQL,4,16
+812,84,18,Docker,4,20
+813,84,13,Microservices,4,24
+814,84,19,AWS (Amazon Web Services),2,8
+815,84,17,Git & GitHub,1,3
+816,84,11,Node.js & Express,3,12
+817,84,24,Teamwork & Collaboration,4,12
+818,85,2,Python,4,16
+819,85,12,RESTful APIs,4,24
+820,85,14,PostgreSQL,4,24
+821,85,17,Git & GitHub,4,24
+822,85,23,Problem Solving & DSA,4,16
+823,85,20,Machine Learning,1,2
+824,85,18,Docker,1,3
+825,85,21,Pandas & NumPy,2,6
+826,85,23,Problem Solving & DSA,4,12
+827,86,18,Docker,4,12
+828,86,19,AWS (Amazon Web Services),4,16
+829,86,17,Git & GitHub,3,15
+830,86,2,Python,3,15
+831,86,13,Microservices,3,18
+832,86,12,RESTful APIs,2,6
+833,86,14,PostgreSQL,2,6
+834,86,23,Problem Solving & DSA,3,12
+835,86,24,Teamwork & Collaboration,4,12
+836,87,1,Java,4,20
+837,87,10,Spring Boot,5,15
+838,87,12,RESTful APIs,4,12
+839,87,14,PostgreSQL,4,16
+840,87,18,Docker,3,15
+841,87,13,Microservices,5,30
+842,87,11,Node.js & Express,3,6
+843,87,19,AWS (Amazon Web Services),2,8
+844,87,17,Git & GitHub,1,4
+845,87,24,Teamwork & Collaboration,4,12
+846,88,6,React,5,25
+847,88,3,JavaScript,5,20
+848,88,10,Spring Boot,4,16
+849,88,7,HTML5 & CSS3,3,15
+850,88,14,PostgreSQL,5,30
+851,88,17,Git & GitHub,4,20
+852,88,18,Docker,1,2
+853,88,8,Tailwind CSS,2,8
+854,88,12,RESTful APIs,1,3
+855,88,23,Problem Solving & DSA,4,12
+856,88,24,Teamwork & Collaboration,3,12
+857,89,2,Python,3,15
+858,89,20,Machine Learning,4,16
+859,89,21,Pandas & NumPy,4,24
+860,89,22,Natural Language Processing (NLP),4,12
+861,89,23,Problem Solving & DSA,3,18
+862,89,18,Docker,2,4
+863,89,14,PostgreSQL,3,9
+864,89,17,Git & GitHub,1,4
+865,89,23,Problem Solving & DSA,5,12
+866,89,24,Teamwork & Collaboration,4,12
+867,90,2,Python,4,20
+868,90,21,Pandas & NumPy,4,16
+869,90,14,PostgreSQL,4,12
+870,90,15,MySQL,4,12
+871,90,23,Problem Solving & DSA,3,9
+872,90,20,Machine Learning,2,6
+873,90,17,Git & GitHub,1,4
+874,90,23,Problem Solving & DSA,3,12
+875,90,24,Teamwork & Collaboration,4,12
+876,91,6,React,4,20
+877,91,3,JavaScript,3,12
+878,91,10,Spring Boot,4,16
+879,91,7,HTML5 & CSS3,3,9
+880,91,14,PostgreSQL,4,16
+881,91,17,Git & GitHub,4,16
+882,91,8,Tailwind CSS,3,6
+883,91,18,Docker,3,6
+884,91,12,RESTful APIs,2,8
+885,91,23,Problem Solving & DSA,4,12
+886,91,24,Teamwork & Collaboration,4,12
+887,92,6,React,4,12
+888,92,3,JavaScript,5,25
+889,92,10,Spring Boot,3,12
+890,92,7,HTML5 & CSS3,4,20
+891,92,14,PostgreSQL,4,16
+892,92,17,Git & GitHub,4,12
+893,92,8,Tailwind CSS,2,4
+894,92,18,Docker,3,9
+895,92,4,TypeScript,1,4
+896,92,23,Problem Solving & DSA,5,12
+897,92,24,Teamwork & Collaboration,4,12
+898,93,1,Java,4,24
+899,93,10,Spring Boot,4,24
+900,93,12,RESTful APIs,3,12
+901,93,14,PostgreSQL,3,15
+902,93,17,Git & GitHub,3,12
+903,93,23,Problem Solving & DSA,5,20
+904,93,15,MySQL,1,3
+905,93,13,Microservices,2,4
+906,93,18,Docker,1,2
+907,93,23,Problem Solving & DSA,3,12
+908,93,24,Teamwork & Collaboration,5,12
+909,94,1,Java,3,15
+910,94,10,Spring Boot,4,20
+911,94,12,RESTful APIs,3,12
+912,94,14,PostgreSQL,4,20
+913,94,17,Git & GitHub,4,12
+914,94,23,Problem Solving & DSA,4,12
+915,94,15,MySQL,2,6
+916,94,13,Microservices,2,8
+917,94,7,HTML5 & CSS3,2,6
+918,94,23,Problem Solving & DSA,4,12
+919,95,6,React,3,9
+920,95,3,JavaScript,3,18
+921,95,10,Spring Boot,4,16
+922,95,7,HTML5 & CSS3,3,9
+923,95,14,PostgreSQL,4,24
+924,95,17,Git & GitHub,3,12
+925,95,18,Docker,1,2
+926,95,12,RESTful APIs,2,4
+927,95,8,Tailwind CSS,2,4
+928,95,24,Teamwork & Collaboration,3,12
+929,96,2,Python,4,12
+930,96,12,RESTful APIs,4,20
+931,96,14,PostgreSQL,4,20
+932,96,17,Git & GitHub,4,16
+933,96,23,Problem Solving & DSA,4,24
+934,96,18,Docker,1,3
+935,96,20,Machine Learning,1,4
+936,96,21,Pandas & NumPy,1,4
+937,96,23,Problem Solving & DSA,4,12
+938,97,18,Docker,4,12
+939,97,19,AWS (Amazon Web Services),3,12
+940,97,17,Git & GitHub,5,30
+941,97,2,Python,4,20
+942,97,13,Microservices,4,12
+943,97,14,PostgreSQL,2,6
+944,97,12,RESTful APIs,1,4
+945,97,24,Teamwork & Collaboration,3,12
+946,98,2,Python,4,16
+947,98,20,Machine Learning,3,12
+948,98,21,Pandas & NumPy,3,9
+949,98,22,Natural Language Processing (NLP),3,12
+950,98,23,Problem Solving & DSA,4,20
+951,98,17,Git & GitHub,3,6
+952,98,18,Docker,2,6
+953,98,14,PostgreSQL,1,2
+954,98,24,Teamwork & Collaboration,4,12
+955,99,2,Python,4,20
+956,99,21,Pandas & NumPy,5,20
+957,99,14,PostgreSQL,3,18
+958,99,15,MySQL,5,20
+959,99,23,Problem Solving & DSA,3,9
+960,99,20,Machine Learning,1,2
+961,99,17,Git & GitHub,1,3
+962,99,23,Problem Solving & DSA,5,12
+963,99,24,Teamwork & Collaboration,3,12
+964,100,1,Java,5,30
+965,100,10,Spring Boot,5,15
+966,100,12,RESTful APIs,5,25
+967,100,14,PostgreSQL,3,18
+968,100,17,Git & GitHub,3,18
+969,100,23,Problem Solving & DSA,5,30
+970,100,7,HTML5 & CSS3,2,4
+971,100,18,Docker,1,2
+972,100,13,Microservices,1,3
+973,100,23,Problem Solving & DSA,3,12
+974,100,24,Teamwork & Collaboration,5,12
+975,101,6,React,3,12
+976,101,3,JavaScript,4,16
+977,101,10,Spring Boot,4,12
+978,101,7,HTML5 & CSS3,5,25
+979,101,14,PostgreSQL,4,24
+980,101,17,Git & GitHub,4,20
+981,101,18,Docker,1,4
+982,101,8,Tailwind CSS,1,3
+983,101,4,TypeScript,1,3
+984,101,23,Problem Solving & DSA,5,12
+985,101,24,Teamwork & Collaboration,3,12
+986,102,1,Java,4,16
+987,102,10,Spring Boot,3,15
+988,102,12,RESTful APIs,5,25
+989,102,14,PostgreSQL,5,15
+990,102,17,Git & GitHub,4,20
+991,102,23,Problem Solving & DSA,5,20
+992,102,13,Microservices,1,2
+993,102,7,HTML5 & CSS3,1,2
+994,102,15,MySQL,2,4
+995,102,23,Problem Solving & DSA,3,12
+996,102,24,Teamwork & Collaboration,5,12
+997,103,2,Python,3,12
+998,103,21,Pandas & NumPy,4,20
+999,103,14,PostgreSQL,5,25
+1000,103,15,MySQL,4,24
+1001,103,23,Problem Solving & DSA,4,20
+1002,103,17,Git & GitHub,1,2
+1003,103,20,Machine Learning,2,6
+1004,103,23,Problem Solving & DSA,4,12
+1005,103,24,Teamwork & Collaboration,3,12
+1006,104,6,React,4,20
+1007,104,3,JavaScript,3,9
+1008,104,4,TypeScript,5,30
+1009,104,7,HTML5 & CSS3,5,15
+1010,104,8,Tailwind CSS,3,15
+1011,104,17,Git & GitHub,5,20
+1012,104,23,Problem Solving & DSA,1,4
+1013,104,9,Angular,1,3
+1014,104,12,RESTful APIs,3,6
+1015,104,23,Problem Solving & DSA,3,12
+1016,104,24,Teamwork & Collaboration,5,12
+1017,105,2,Python,4,12
+1018,105,21,Pandas & NumPy,4,24
+1019,105,14,PostgreSQL,5,30
+1020,105,15,MySQL,4,24
+1021,105,23,Problem Solving & DSA,4,24
+1022,105,20,Machine Learning,2,8
+1023,105,17,Git & GitHub,2,8
+1024,105,24,Teamwork & Collaboration,3,12
+1025,106,6,React,3,18
+1026,106,3,JavaScript,3,9
+1027,106,10,Spring Boot,4,12
+1028,106,7,HTML5 & CSS3,4,24
+1029,106,14,PostgreSQL,4,24
+1030,106,17,Git & GitHub,5,20
+1031,106,18,Docker,1,2
+1032,106,4,TypeScript,3,9
+1033,106,12,RESTful APIs,2,8
+1034,106,23,Problem Solving & DSA,5,12
+1035,107,18,Docker,4,24
+1036,107,19,AWS (Amazon Web Services),3,18
+1037,107,17,Git & GitHub,3,9
+1038,107,2,Python,3,15
+1039,107,13,Microservices,5,30
+1040,107,14,PostgreSQL,2,6
+1041,107,12,RESTful APIs,2,8
+1042,107,24,Teamwork & Collaboration,4,12
+1043,108,6,React,3,18
+1044,108,3,JavaScript,3,15
+1045,108,4,TypeScript,4,16
+1046,108,7,HTML5 & CSS3,4,12
+1047,108,8,Tailwind CSS,3,15
+1048,108,17,Git & GitHub,5,30
+1049,108,23,Problem Solving & DSA,3,12
+1050,108,9,Angular,2,8
+1051,108,12,RESTful APIs,2,6
+1052,108,23,Problem Solving & DSA,3,12
+1053,108,24,Teamwork & Collaboration,3,12
+1054,109,6,React,3,18
+1055,109,3,JavaScript,3,18
+1056,109,4,TypeScript,3,12
+1057,109,7,HTML5 & CSS3,5,25
+1058,109,8,Tailwind CSS,4,12
+1059,109,17,Git & GitHub,3,18
+1060,109,23,Problem Solving & DSA,2,4
+1061,109,12,RESTful APIs,2,8
+1062,109,9,Angular,2,6
+1063,110,6,React,5,25
+1064,110,3,JavaScript,4,24
+1065,110,10,Spring Boot,4,24
+1066,110,7,HTML5 & CSS3,3,15
+1067,110,14,PostgreSQL,4,24
+1068,110,17,Git & GitHub,3,15
+1069,110,8,Tailwind CSS,3,9
+1070,110,4,TypeScript,1,3
+1071,110,18,Docker,1,3
+1072,110,23,Problem Solving & DSA,5,12
+1073,111,2,Python,3,12
+1074,111,12,RESTful APIs,5,30
+1075,111,14,PostgreSQL,4,20
+1076,111,17,Git & GitHub,5,20
+1077,111,23,Problem Solving & DSA,3,18
+1078,111,18,Docker,1,2
+1079,111,20,Machine Learning,3,6
+1080,111,21,Pandas & NumPy,1,2
+1081,111,23,Problem Solving & DSA,5,12
+1082,112,6,React,4,24
+1083,112,3,JavaScript,3,18
+1084,112,10,Spring Boot,4,20
+1085,112,7,HTML5 & CSS3,4,20
+1086,112,14,PostgreSQL,4,12
+1087,112,17,Git & GitHub,3,18
+1088,112,4,TypeScript,3,12
+1089,112,18,Docker,1,2
+1090,112,12,RESTful APIs,1,3
+1091,112,23,Problem Solving & DSA,5,12
+1092,113,2,Python,5,25
+1093,113,12,RESTful APIs,4,16
+1094,113,14,PostgreSQL,4,24
+1095,113,17,Git & GitHub,4,12
+1096,113,23,Problem Solving & DSA,4,20
+1097,113,20,Machine Learning,2,6
+1098,113,21,Pandas & NumPy,1,3
+1099,113,18,Docker,2,6
+1100,113,24,Teamwork & Collaboration,5,12
+1101,114,1,Java,4,16
+1102,114,10,Spring Boot,4,24
+1103,114,12,RESTful APIs,5,25
+1104,114,14,PostgreSQL,5,30
+1105,114,18,Docker,4,12
+1106,114,13,Microservices,4,16
+1107,114,17,Git & GitHub,3,12
+1108,114,11,Node.js & Express,1,3
+1109,114,19,AWS (Amazon Web Services),3,12
+1110,114,23,Problem Solving & DSA,3,12
+1111,115,6,React,3,12
+1112,115,3,JavaScript,4,20
+1113,115,4,TypeScript,4,20
+1114,115,7,HTML5 & CSS3,4,20
+1115,115,8,Tailwind CSS,4,12
+1116,115,17,Git & GitHub,4,12
+1117,115,12,RESTful APIs,3,9
+1118,115,9,Angular,2,6
+1119,115,23,Problem Solving & DSA,1,2
+1120,116,2,Python,4,16
+1121,116,21,Pandas & NumPy,4,12
+1122,116,14,PostgreSQL,3,15
+1123,116,15,MySQL,3,12
+1124,116,23,Problem Solving & DSA,4,16
+1125,116,17,Git & GitHub,1,3
+1126,116,20,Machine Learning,2,6
+1127,116,23,Problem Solving & DSA,4,12
+1128,116,24,Teamwork & Collaboration,3,12
+1129,117,1,Java,4,16
+1130,117,10,Spring Boot,3,15
+1131,117,12,RESTful APIs,4,12
+1132,117,14,PostgreSQL,4,20
+1133,117,18,Docker,3,9
+1134,117,13,Microservices,3,15
+1135,117,17,Git & GitHub,3,6
+1136,117,19,AWS (Amazon Web Services),1,3
+1137,117,11,Node.js & Express,1,2
+1138,117,24,Teamwork & Collaboration,4,12
+1139,118,6,React,4,16
+1140,118,3,JavaScript,3,9
+1141,118,4,TypeScript,4,20
+1142,118,7,HTML5 & CSS3,4,12
+1143,118,8,Tailwind CSS,4,12
+1144,118,17,Git & GitHub,4,12
+1145,118,9,Angular,2,4
+1146,118,23,Problem Solving & DSA,2,6
+1147,118,12,RESTful APIs,2,4
+1148,118,23,Problem Solving & DSA,5,12
+1149,119,6,React,3,9
+1150,119,3,JavaScript,4,16
+1151,119,10,Spring Boot,4,16
+1152,119,7,HTML5 & CSS3,4,24
+1153,119,14,PostgreSQL,3,9
+1154,119,17,Git & GitHub,4,16
+1155,119,18,Docker,1,4
+1156,119,8,Tailwind CSS,1,2
+1157,119,4,TypeScript,3,12
+1158,119,23,Problem Solving & DSA,3,12
+1159,119,24,Teamwork & Collaboration,3,12
+1160,120,2,Python,3,12
+1161,120,12,RESTful APIs,5,25
+1162,120,14,PostgreSQL,4,20
+1163,120,17,Git & GitHub,4,12
+1164,120,23,Problem Solving & DSA,3,9
+1165,120,18,Docker,1,3
+1166,120,20,Machine Learning,3,9
+1167,120,21,Pandas & NumPy,3,6
+1168,120,23,Problem Solving & DSA,4,12
+1169,121,18,Docker,3,9
+1170,121,19,AWS (Amazon Web Services),5,20
+1171,121,17,Git & GitHub,3,18
+1172,121,2,Python,5,30
+1173,121,13,Microservices,3,18
+1174,121,12,RESTful APIs,3,12
+1175,121,14,PostgreSQL,3,6
+1176,121,23,Problem Solving & DSA,4,12
+1177,122,2,Python,4,16
+1178,122,12,RESTful APIs,5,25
+1179,122,14,PostgreSQL,4,12
+1180,122,17,Git & GitHub,4,16
+1181,122,23,Problem Solving & DSA,4,24
+1182,122,18,Docker,2,4
+1183,122,20,Machine Learning,2,6
+1184,122,21,Pandas & NumPy,3,6
+1185,122,24,Teamwork & Collaboration,3,12
+1186,123,2,Python,4,24
+1187,123,20,Machine Learning,3,18
+1188,123,21,Pandas & NumPy,4,12
+1189,123,22,Natural Language Processing (NLP),5,15
+1190,123,23,Problem Solving & DSA,3,18
+1191,123,18,Docker,2,8
+1192,123,14,PostgreSQL,2,8
+1193,123,17,Git & GitHub,2,8
+1194,123,23,Problem Solving & DSA,4,12
+1195,123,24,Teamwork & Collaboration,3,12
+1196,124,18,Docker,3,12
+1197,124,19,AWS (Amazon Web Services),3,15
+1198,124,17,Git & GitHub,5,25
+1199,124,2,Python,4,20
+1200,124,13,Microservices,4,12
+1201,124,14,PostgreSQL,1,4
+1202,124,12,RESTful APIs,2,6
+1203,124,24,Teamwork & Collaboration,3,12
+1204,125,2,Python,3,9
+1205,125,21,Pandas & NumPy,4,24
+1206,125,14,PostgreSQL,4,16
+1207,125,15,MySQL,5,15
+1208,125,23,Problem Solving & DSA,4,12
+1209,125,17,Git & GitHub,3,6
+1210,125,20,Machine Learning,2,4
+1211,125,23,Problem Solving & DSA,3,12
+1212,126,2,Python,3,15
+1213,126,20,Machine Learning,5,30
+1214,126,21,Pandas & NumPy,5,20
+1215,126,22,Natural Language Processing (NLP),4,20
+1216,126,23,Problem Solving & DSA,5,25
+1217,126,14,PostgreSQL,1,4
+1218,126,18,Docker,1,3
+1219,126,17,Git & GitHub,3,6
+1220,126,23,Problem Solving & DSA,5,12
+1221,126,24,Teamwork & Collaboration,3,12
+1222,127,18,Docker,5,30
+1223,127,19,AWS (Amazon Web Services),5,15
+1224,127,17,Git & GitHub,3,12
+1225,127,2,Python,3,9
+1226,127,13,Microservices,3,12
+1227,127,12,RESTful APIs,1,2
+1228,127,14,PostgreSQL,2,6
+1229,127,24,Teamwork & Collaboration,4,12
+1230,128,2,Python,4,12
+1231,128,20,Machine Learning,5,30
+1232,128,21,Pandas & NumPy,4,20
+1233,128,22,Natural Language Processing (NLP),5,15
+1234,128,23,Problem Solving & DSA,3,15
+1235,128,18,Docker,3,12
+1236,128,17,Git & GitHub,2,6
+1237,128,14,PostgreSQL,2,8
+1238,128,23,Problem Solving & DSA,3,12
+1239,128,24,Teamwork & Collaboration,3,12
+1240,129,6,React,4,20
+1241,129,3,JavaScript,3,15
+1242,129,10,Spring Boot,3,18
+1243,129,7,HTML5 & CSS3,4,16
+1244,129,14,PostgreSQL,3,15
+1245,129,17,Git & GitHub,4,20
+1246,129,18,Docker,1,4
+1247,129,12,RESTful APIs,1,2
+1248,129,8,Tailwind CSS,3,12
+1249,129,24,Teamwork & Collaboration,4,12
+1250,130,2,Python,4,20
+1251,130,21,Pandas & NumPy,4,16
+1252,130,14,PostgreSQL,5,30
+1253,130,15,MySQL,5,15
+1254,130,23,Problem Solving & DSA,3,15
+1255,130,17,Git & GitHub,3,12
+1256,130,20,Machine Learning,3,6
+1257,130,23,Problem Solving & DSA,5,12
+1258,130,24,Teamwork & Collaboration,4,12
+1259,131,2,Python,3,12
+1260,131,21,Pandas & NumPy,4,12
+1261,131,14,PostgreSQL,5,20
+1262,131,15,MySQL,5,15
+1263,131,23,Problem Solving & DSA,4,16
+1264,131,20,Machine Learning,3,6
+1265,131,17,Git & GitHub,2,8
+1266,131,23,Problem Solving & DSA,5,12
+1267,131,24,Teamwork & Collaboration,5,12
+1268,132,2,Python,3,12
+1269,132,21,Pandas & NumPy,4,12
+1270,132,14,PostgreSQL,4,16
+1271,132,15,MySQL,5,30
+1272,132,23,Problem Solving & DSA,4,24
+1273,132,17,Git & GitHub,1,4
+1274,132,20,Machine Learning,1,2
+1275,132,23,Problem Solving & DSA,5,12
+1276,133,2,Python,4,24
+1277,133,12,RESTful APIs,4,12
+1278,133,14,PostgreSQL,4,16
+1279,133,17,Git & GitHub,3,18
+1280,133,23,Problem Solving & DSA,4,20
+1281,133,20,Machine Learning,2,8
+1282,133,18,Docker,2,4
+1283,133,21,Pandas & NumPy,2,8
+1284,134,6,React,4,20
+1285,134,3,JavaScript,3,12
+1286,134,10,Spring Boot,3,12
+1287,134,7,HTML5 & CSS3,4,20
+1288,134,14,PostgreSQL,3,12
+1289,134,17,Git & GitHub,4,12
+1290,134,18,Docker,1,2
+1291,134,12,RESTful APIs,1,2
+1292,134,4,TypeScript,2,6
+1293,134,23,Problem Solving & DSA,4,12
+1294,135,18,Docker,4,20
+1295,135,19,AWS (Amazon Web Services),4,16
+1296,135,17,Git & GitHub,4,20
+1297,135,2,Python,5,30
+1298,135,13,Microservices,3,15
+1299,135,14,PostgreSQL,2,8
+1300,135,12,RESTful APIs,2,6
+1301,135,24,Teamwork & Collaboration,4,12
+1302,136,18,Docker,4,12
+1303,136,19,AWS (Amazon Web Services),5,20
+1304,136,17,Git & GitHub,5,20
+1305,136,2,Python,3,9
+1306,136,13,Microservices,4,12
+1307,136,14,PostgreSQL,2,4
+1308,136,12,RESTful APIs,3,12
+1309,136,24,Teamwork & Collaboration,5,12
+1310,137,2,Python,4,12
+1311,137,12,RESTful APIs,4,12
+1312,137,14,PostgreSQL,4,16
+1313,137,17,Git & GitHub,4,16
+1314,137,23,Problem Solving & DSA,4,16
+1315,137,20,Machine Learning,3,6
+1316,137,18,Docker,1,3
+1317,137,21,Pandas & NumPy,1,3
+1318,137,23,Problem Solving & DSA,3,12
+1319,137,24,Teamwork & Collaboration,5,12
+1320,138,1,Java,3,15
+1321,138,10,Spring Boot,5,25
+1322,138,12,RESTful APIs,4,16
+1323,138,14,PostgreSQL,4,24
+1324,138,17,Git & GitHub,4,12
+1325,138,23,Problem Solving & DSA,4,24
+1326,138,13,Microservices,1,3
+1327,138,15,MySQL,2,6
+1328,138,7,HTML5 & CSS3,3,6
+1329,138,23,Problem Solving & DSA,3,12
+1330,138,24,Teamwork & Collaboration,3,12
+1331,139,6,React,5,15
+1332,139,3,JavaScript,4,24
+1333,139,10,Spring Boot,4,16
+1334,139,7,HTML5 & CSS3,4,24
+1335,139,14,PostgreSQL,3,9
+1336,139,17,Git & GitHub,3,12
+1337,139,8,Tailwind CSS,3,6
+1338,139,12,RESTful APIs,1,3
+1339,139,4,TypeScript,3,12
+1340,139,23,Problem Solving & DSA,5,12
+1341,139,24,Teamwork & Collaboration,5,12
+1342,140,18,Docker,3,18
+1343,140,19,AWS (Amazon Web Services),4,16
+1344,140,17,Git & GitHub,4,20
+1345,140,2,Python,3,15
+1346,140,13,Microservices,5,15
+1347,140,14,PostgreSQL,1,2
+1348,140,12,RESTful APIs,1,4
+1349,140,23,Problem Solving & DSA,5,12
+1350,140,24,Teamwork & Collaboration,3,12
+1351,141,6,React,4,12
+1352,141,3,JavaScript,5,30
+1353,141,10,Spring Boot,4,20
+1354,141,7,HTML5 & CSS3,5,30
+1355,141,14,PostgreSQL,3,18
+1356,141,17,Git & GitHub,4,24
+1357,141,12,RESTful APIs,2,6
+1358,141,18,Docker,2,4
+1359,141,4,TypeScript,3,6
+1360,141,24,Teamwork & Collaboration,4,12
+1361,142,1,Java,4,16
+1362,142,10,Spring Boot,4,20
+1363,142,12,RESTful APIs,4,12
+1364,142,14,PostgreSQL,3,15
+1365,142,17,Git & GitHub,3,18
+1366,142,23,Problem Solving & DSA,4,20
+1367,142,7,HTML5 & CSS3,2,8
+1368,142,18,Docker,2,6
+1369,142,13,Microservices,2,6
+1370,142,24,Teamwork & Collaboration,4,12
+1371,143,6,React,4,20
+1372,143,3,JavaScript,5,15
+1373,143,4,TypeScript,3,9
+1374,143,7,HTML5 & CSS3,5,20
+1375,143,8,Tailwind CSS,4,24
+1376,143,17,Git & GitHub,3,15
+1377,143,9,Angular,2,8
+1378,143,12,RESTful APIs,1,3
+1379,143,23,Problem Solving & DSA,2,8
+1380,143,24,Teamwork & Collaboration,3,12
+1381,144,1,Java,3,12
+1382,144,10,Spring Boot,4,12
+1383,144,12,RESTful APIs,4,12
+1384,144,14,PostgreSQL,5,15
+1385,144,18,Docker,5,30
+1386,144,13,Microservices,4,24
+1387,144,17,Git & GitHub,2,4
+1388,144,11,Node.js & Express,3,12
+1389,144,19,AWS (Amazon Web Services),1,4
+1390,144,23,Problem Solving & DSA,4,12
+1391,144,24,Teamwork & Collaboration,4,12
+1392,145,2,Python,4,12
+1393,145,12,RESTful APIs,4,20
+1394,145,14,PostgreSQL,5,25
+1395,145,17,Git & GitHub,5,25
+1396,145,23,Problem Solving & DSA,4,24
+1397,145,20,Machine Learning,2,6
+1398,145,21,Pandas & NumPy,2,8
+1399,145,18,Docker,3,9
+1400,146,2,Python,3,9
+1401,146,21,Pandas & NumPy,4,20
+1402,146,14,PostgreSQL,3,12
+1403,146,15,MySQL,4,20
+1404,146,23,Problem Solving & DSA,3,15
+1405,146,20,Machine Learning,2,4
+1406,146,17,Git & GitHub,1,2
+1407,146,23,Problem Solving & DSA,3,12
+1408,147,6,React,4,12
+1409,147,3,JavaScript,5,25
+1410,147,10,Spring Boot,4,24
+1411,147,7,HTML5 & CSS3,5,25
+1412,147,14,PostgreSQL,4,20
+1413,147,17,Git & GitHub,4,16
+1414,147,4,TypeScript,2,8
+1415,147,12,RESTful APIs,1,3
+1416,147,8,Tailwind CSS,1,4
+1417,147,23,Problem Solving & DSA,4,12
+1418,147,24,Teamwork & Collaboration,5,12
+1419,148,1,Java,4,12
+1420,148,10,Spring Boot,4,20
+1421,148,12,RESTful APIs,3,15
+1422,148,14,PostgreSQL,3,18
+1423,148,17,Git & GitHub,5,25
+1424,148,23,Problem Solving & DSA,4,24
+1425,148,7,HTML5 & CSS3,2,6
+1426,148,18,Docker,1,3
+1427,148,13,Microservices,1,2
+1428,148,23,Problem Solving & DSA,5,12
+1429,148,24,Teamwork & Collaboration,3,12
+1430,149,6,React,3,18
+1431,149,3,JavaScript,3,15
+1432,149,4,TypeScript,4,20
+1433,149,7,HTML5 & CSS3,3,9
+1434,149,8,Tailwind CSS,4,16
+1435,149,17,Git & GitHub,3,15
+1436,149,12,RESTful APIs,2,6
+1437,149,9,Angular,1,4
+1438,149,23,Problem Solving & DSA,2,6
+1439,149,23,Problem Solving & DSA,4,12
+1440,150,2,Python,4,24
+1441,150,21,Pandas & NumPy,5,30
+1442,150,14,PostgreSQL,4,24
+1443,150,15,MySQL,4,16
+1444,150,23,Problem Solving & DSA,5,25
+1445,150,17,Git & GitHub,3,6
+1446,150,20,Machine Learning,1,3
+1447,150,24,Teamwork & Collaboration,4,12
+1448,151,2,Python,3,9
+1449,151,21,Pandas & NumPy,3,12
+1450,151,14,PostgreSQL,4,12
+1451,151,15,MySQL,3,18
+1452,151,23,Problem Solving & DSA,3,9
+1453,151,17,Git & GitHub,1,3
+1454,151,20,Machine Learning,2,4
+1455,151,24,Teamwork & Collaboration,3,12
+1456,152,2,Python,3,12
+1457,152,12,RESTful APIs,3,15
+1458,152,14,PostgreSQL,5,25
+1459,152,17,Git & GitHub,5,30
+1460,152,23,Problem Solving & DSA,5,25
+1461,152,20,Machine Learning,3,12
+1462,152,21,Pandas & NumPy,2,8
+1463,152,18,Docker,2,8
+1464,152,23,Problem Solving & DSA,5,12
+1465,152,24,Teamwork & Collaboration,5,12
+1466,153,18,Docker,4,16
+1467,153,19,AWS (Amazon Web Services),4,12
+1468,153,17,Git & GitHub,4,16
+1469,153,2,Python,4,24
+1470,153,13,Microservices,4,24
+1471,153,12,RESTful APIs,1,3
+1472,153,14,PostgreSQL,2,8
+1473,154,2,Python,3,18
+1474,154,20,Machine Learning,5,20
+1475,154,21,Pandas & NumPy,3,18
+1476,154,22,Natural Language Processing (NLP),4,20
+1477,154,23,Problem Solving & DSA,3,15
+1478,154,17,Git & GitHub,1,3
+1479,154,18,Docker,1,3
+1480,154,14,PostgreSQL,2,6
+1481,154,23,Problem Solving & DSA,4,12
+1482,155,2,Python,4,12
+1483,155,12,RESTful APIs,3,12
+1484,155,14,PostgreSQL,3,12
+1485,155,17,Git & GitHub,4,20
+1486,155,23,Problem Solving & DSA,4,24
+1487,155,21,Pandas & NumPy,1,2
+1488,155,20,Machine Learning,1,3
+1489,155,18,Docker,1,3
+1490,155,24,Teamwork & Collaboration,4,12
+1491,156,1,Java,3,9
+1492,156,10,Spring Boot,3,9
+1493,156,12,RESTful APIs,4,16
+1494,156,14,PostgreSQL,4,20
+1495,156,18,Docker,5,20
+1496,156,13,Microservices,4,12
+1497,156,19,AWS (Amazon Web Services),2,6
+1498,156,11,Node.js & Express,1,2
+1499,156,17,Git & GitHub,3,6
+1500,156,23,Problem Solving & DSA,3,12
+1501,156,24,Teamwork & Collaboration,4,12
+1502,157,1,Java,4,16
+1503,157,10,Spring Boot,4,12
+1504,157,12,RESTful APIs,3,18
+1505,157,14,PostgreSQL,3,15
+1506,157,17,Git & GitHub,5,15
+1507,157,23,Problem Solving & DSA,3,12
+1508,157,18,Docker,1,4
+1509,157,7,HTML5 & CSS3,2,6
+1510,157,13,Microservices,3,9
+1511,157,23,Problem Solving & DSA,3,12
+1512,157,24,Teamwork & Collaboration,4,12
+1513,158,18,Docker,3,12
+1514,158,19,AWS (Amazon Web Services),4,20
+1515,158,17,Git & GitHub,4,20
+1516,158,2,Python,5,20
+1517,158,13,Microservices,3,12
+1518,158,12,RESTful APIs,3,12
+1519,158,14,PostgreSQL,1,2
+1520,158,23,Problem Solving & DSA,5,12
+1521,158,24,Teamwork & Collaboration,3,12
+1522,159,2,Python,4,16
+1523,159,20,Machine Learning,4,20
+1524,159,21,Pandas & NumPy,4,20
+1525,159,22,Natural Language Processing (NLP),3,9
+1526,159,23,Problem Solving & DSA,3,12
+1527,159,18,Docker,1,2
+1528,159,14,PostgreSQL,1,4
+1529,159,17,Git & GitHub,2,6
+1530,159,23,Problem Solving & DSA,5,12
+1531,159,24,Teamwork & Collaboration,5,12
+1532,160,6,React,4,12
+1533,160,3,JavaScript,4,12
+1534,160,10,Spring Boot,4,24
+1535,160,7,HTML5 & CSS3,5,15
+1536,160,14,PostgreSQL,5,25
+1537,160,17,Git & GitHub,4,12
+1538,160,12,RESTful APIs,3,6
+1539,160,4,TypeScript,1,2
+1540,160,18,Docker,2,4
+1541,160,24,Teamwork & Collaboration,5,12
+1542,161,2,Python,5,20
+1543,161,21,Pandas & NumPy,4,24
+1544,161,14,PostgreSQL,4,16
+1545,161,15,MySQL,4,24
+1546,161,23,Problem Solving & DSA,5,25
+1547,161,17,Git & GitHub,2,8
+1548,161,20,Machine Learning,2,8
+1549,161,23,Problem Solving & DSA,3,12
+1550,161,24,Teamwork & Collaboration,3,12
+1551,162,18,Docker,3,9
+1552,162,19,AWS (Amazon Web Services),5,15
+1553,162,17,Git & GitHub,4,20
+1554,162,2,Python,3,12
+1555,162,13,Microservices,3,15
+1556,162,14,PostgreSQL,3,12
+1557,162,12,RESTful APIs,2,8
+1558,163,1,Java,3,18
+1559,163,10,Spring Boot,4,16
+1560,163,12,RESTful APIs,4,20
+1561,163,14,PostgreSQL,4,16
+1562,163,18,Docker,4,12
+1563,163,13,Microservices,4,20
+1564,163,11,Node.js & Express,2,6
+1565,163,17,Git & GitHub,1,3
+1566,163,19,AWS (Amazon Web Services),2,4
+1567,163,23,Problem Solving & DSA,3,12
+1568,163,24,Teamwork & Collaboration,5,12
+1569,164,1,Java,4,16
+1570,164,10,Spring Boot,3,18
+1571,164,12,RESTful APIs,5,15
+1572,164,14,PostgreSQL,3,15
+1573,164,17,Git & GitHub,4,16
+1574,164,23,Problem Solving & DSA,3,9
+1575,164,7,HTML5 & CSS3,2,6
+1576,164,15,MySQL,1,4
+1577,164,18,Docker,2,8
+1578,165,1,Java,3,18
+1579,165,10,Spring Boot,4,12
+1580,165,12,RESTful APIs,3,18
+1581,165,14,PostgreSQL,4,20
+1582,165,18,Docker,3,15
+1583,165,13,Microservices,4,12
+1584,165,17,Git & GitHub,2,6
+1585,165,11,Node.js & Express,2,6
+1586,165,19,AWS (Amazon Web Services),1,2
+1587,165,24,Teamwork & Collaboration,5,12
+1588,166,6,React,4,12
+1589,166,3,JavaScript,4,24
+1590,166,4,TypeScript,3,12
+1591,166,7,HTML5 & CSS3,4,16
+1592,166,8,Tailwind CSS,3,15
+1593,166,17,Git & GitHub,4,16
+1594,166,23,Problem Solving & DSA,2,8
+1595,166,9,Angular,2,6
+1596,166,12,RESTful APIs,1,3
+1597,166,24,Teamwork & Collaboration,4,12
+1598,167,2,Python,3,18
+1599,167,21,Pandas & NumPy,3,18
+1600,167,14,PostgreSQL,4,12
+1601,167,15,MySQL,5,30
+1602,167,23,Problem Solving & DSA,5,15
+1603,167,20,Machine Learning,2,6
+1604,167,17,Git & GitHub,2,8
+1605,168,2,Python,4,20
+1606,168,20,Machine Learning,4,20
+1607,168,21,Pandas & NumPy,3,15
+1608,168,22,Natural Language Processing (NLP),5,25
+1609,168,23,Problem Solving & DSA,5,15
+1610,168,14,PostgreSQL,1,3
+1611,168,17,Git & GitHub,2,4
+1612,168,18,Docker,2,8
+1613,168,23,Problem Solving & DSA,5,12
+1614,168,24,Teamwork & Collaboration,5,12
+1615,169,2,Python,3,12
+1616,169,21,Pandas & NumPy,4,16
+1617,169,14,PostgreSQL,5,25
+1618,169,15,MySQL,4,16
+1619,169,23,Problem Solving & DSA,4,16
+1620,169,20,Machine Learning,1,4
+1621,169,17,Git & GitHub,3,6
+1622,169,24,Teamwork & Collaboration,3,12
+1623,170,2,Python,3,12
+1624,170,12,RESTful APIs,3,12
+1625,170,14,PostgreSQL,3,15
+1626,170,17,Git & GitHub,4,16
+1627,170,23,Problem Solving & DSA,4,16
+1628,170,20,Machine Learning,1,3
+1629,170,18,Docker,1,4
+1630,170,21,Pandas & NumPy,2,8
+1631,170,23,Problem Solving & DSA,4,12
+1632,170,24,Teamwork & Collaboration,3,12
+1633,171,2,Python,4,16
+1634,171,12,RESTful APIs,4,12
+1635,171,14,PostgreSQL,3,18
+1636,171,17,Git & GitHub,5,30
+1637,171,23,Problem Solving & DSA,4,24
+1638,171,18,Docker,2,8
+1639,171,21,Pandas & NumPy,2,6
+1640,171,20,Machine Learning,2,6
+1641,171,23,Problem Solving & DSA,5,12
+1642,171,24,Teamwork & Collaboration,5,12
+1643,172,18,Docker,4,24
+1644,172,19,AWS (Amazon Web Services),5,15
+1645,172,17,Git & GitHub,4,12
+1646,172,2,Python,3,18
+1647,172,13,Microservices,4,20
+1648,172,12,RESTful APIs,1,3
+1649,172,14,PostgreSQL,2,4
+1650,172,23,Problem Solving & DSA,3,12
+1651,172,24,Teamwork & Collaboration,5,12
+1652,173,6,React,4,12
+1653,173,3,JavaScript,3,12
+1654,173,4,TypeScript,5,15
+1655,173,7,HTML5 & CSS3,3,12
+1656,173,8,Tailwind CSS,4,12
+1657,173,17,Git & GitHub,3,18
+1658,173,23,Problem Solving & DSA,2,6
+1659,173,12,RESTful APIs,2,8
+1660,173,9,Angular,2,4
+1661,173,23,Problem Solving & DSA,4,12
+1662,174,6,React,4,20
+1663,174,3,JavaScript,4,24
+1664,174,4,TypeScript,3,12
+1665,174,7,HTML5 & CSS3,3,12
+1666,174,8,Tailwind CSS,5,15
+1667,174,17,Git & GitHub,4,20
+1668,174,9,Angular,3,12
+1669,174,12,RESTful APIs,3,12
+1670,174,23,Problem Solving & DSA,3,6
+1671,174,24,Teamwork & Collaboration,4,12
+1672,175,2,Python,3,9
+1673,175,12,RESTful APIs,4,12
+1674,175,14,PostgreSQL,3,9
+1675,175,17,Git & GitHub,4,20
+1676,175,23,Problem Solving & DSA,4,12
+1677,175,18,Docker,3,6
+1678,175,20,Machine Learning,2,8
+1679,175,21,Pandas & NumPy,2,8
+1680,175,23,Problem Solving & DSA,5,12
+1681,176,6,React,4,24
+1682,176,3,JavaScript,5,30
+1683,176,10,Spring Boot,5,15
+1684,176,7,HTML5 & CSS3,3,12
+1685,176,14,PostgreSQL,3,15
+1686,176,17,Git & GitHub,4,24
+1687,176,8,Tailwind CSS,2,4
+1688,176,12,RESTful APIs,2,8
+1689,176,4,TypeScript,2,4
+1690,176,23,Problem Solving & DSA,5,12
+1691,176,24,Teamwork & Collaboration,5,12
+1692,177,2,Python,4,24
+1693,177,21,Pandas & NumPy,4,16
+1694,177,14,PostgreSQL,5,20
+1695,177,15,MySQL,4,16
+1696,177,23,Problem Solving & DSA,3,9
+1697,177,17,Git & GitHub,2,4
+1698,177,20,Machine Learning,2,6
+1699,177,23,Problem Solving & DSA,4,12
+1700,177,24,Teamwork & Collaboration,5,12
+1701,178,2,Python,4,20
+1702,178,12,RESTful APIs,4,12
+1703,178,14,PostgreSQL,4,20
+1704,178,17,Git & GitHub,4,12
+1705,178,23,Problem Solving & DSA,5,20
+1706,178,21,Pandas & NumPy,3,6
+1707,178,20,Machine Learning,2,6
+1708,178,18,Docker,1,3
+1709,178,23,Problem Solving & DSA,5,12
+1710,178,24,Teamwork & Collaboration,4,12
+1711,179,1,Java,4,20
+1712,179,10,Spring Boot,3,12
+1713,179,12,RESTful APIs,3,9
+1714,179,14,PostgreSQL,4,24
+1715,179,17,Git & GitHub,4,16
+1716,179,23,Problem Solving & DSA,4,24
+1717,179,13,Microservices,3,9
+1718,179,15,MySQL,2,6
+1719,179,18,Docker,2,6
+1720,179,23,Problem Solving & DSA,4,12
+1721,179,24,Teamwork & Collaboration,4,12
+1722,180,2,Python,4,12
+1723,180,12,RESTful APIs,4,12
+1724,180,14,PostgreSQL,4,12
+1725,180,17,Git & GitHub,4,16
+1726,180,23,Problem Solving & DSA,3,18
+1727,180,20,Machine Learning,1,2
+1728,180,21,Pandas & NumPy,3,12
+1729,180,18,Docker,2,4
+1730,181,6,React,5,15
+1731,181,3,JavaScript,4,20
+1732,181,10,Spring Boot,3,15
+1733,181,7,HTML5 & CSS3,4,16
+1734,181,14,PostgreSQL,4,16
+1735,181,17,Git & GitHub,3,15
+1736,181,18,Docker,1,2
+1737,181,12,RESTful APIs,1,2
+1738,181,4,TypeScript,3,12
+1739,181,23,Problem Solving & DSA,3,12
+1740,181,24,Teamwork & Collaboration,5,12
+1741,182,2,Python,3,15
+1742,182,12,RESTful APIs,4,12
+1743,182,14,PostgreSQL,3,18
+1744,182,17,Git & GitHub,5,15
+1745,182,23,Problem Solving & DSA,3,9
+1746,182,18,Docker,1,4
+1747,182,21,Pandas & NumPy,3,12
+1748,182,20,Machine Learning,3,12
+1749,182,23,Problem Solving & DSA,4,12
+1750,182,24,Teamwork & Collaboration,3,12
+1751,183,18,Docker,4,24
+1752,183,19,AWS (Amazon Web Services),4,16
+1753,183,17,Git & GitHub,3,15
+1754,183,2,Python,5,30
+1755,183,13,Microservices,3,15
+1756,183,12,RESTful APIs,2,4
+1757,183,14,PostgreSQL,2,6
+1758,183,23,Problem Solving & DSA,3,12
+1759,184,6,React,4,12
+1760,184,3,JavaScript,4,24
+1761,184,10,Spring Boot,4,24
+1762,184,7,HTML5 & CSS3,3,12
+1763,184,14,PostgreSQL,4,24
+1764,184,17,Git & GitHub,4,20
+1765,184,8,Tailwind CSS,2,6
+1766,184,12,RESTful APIs,2,6
+1767,184,18,Docker,2,4
+1768,184,24,Teamwork & Collaboration,5,12
+1769,185,6,React,4,24
+1770,185,3,JavaScript,3,9
+1771,185,10,Spring Boot,4,24
+1772,185,7,HTML5 & CSS3,4,12
+1773,185,14,PostgreSQL,3,12
+1774,185,17,Git & GitHub,5,15
+1775,185,8,Tailwind CSS,2,6
+1776,185,12,RESTful APIs,1,4
+1777,185,4,TypeScript,2,4
+1778,185,23,Problem Solving & DSA,4,12
+1779,186,1,Java,5,15
+1780,186,10,Spring Boot,4,12
+1781,186,12,RESTful APIs,3,15
+1782,186,14,PostgreSQL,3,15
+1783,186,17,Git & GitHub,5,20
+1784,186,23,Problem Solving & DSA,4,24
+1785,186,15,MySQL,2,6
+1786,186,7,HTML5 & CSS3,2,8
+1787,186,13,Microservices,1,2
+1788,186,24,Teamwork & Collaboration,4,12
+1789,187,1,Java,4,16
+1790,187,10,Spring Boot,3,18
+1791,187,12,RESTful APIs,5,30
+1792,187,14,PostgreSQL,4,24
+1793,187,17,Git & GitHub,4,24
+1794,187,23,Problem Solving & DSA,4,16
+1795,187,13,Microservices,2,8
+1796,187,7,HTML5 & CSS3,1,4
+1797,187,18,Docker,1,4
+1798,187,23,Problem Solving & DSA,3,12
+1799,187,24,Teamwork & Collaboration,5,12
+1800,188,18,Docker,4,20
+1801,188,19,AWS (Amazon Web Services),4,12
+1802,188,17,Git & GitHub,4,12
+1803,188,2,Python,3,9
+1804,188,13,Microservices,4,20
+1805,188,14,PostgreSQL,2,4
+1806,188,12,RESTful APIs,2,8
+1807,188,23,Problem Solving & DSA,5,12
+1808,188,24,Teamwork & Collaboration,4,12
+1809,189,2,Python,4,16
+1810,189,12,RESTful APIs,4,20
+1811,189,14,PostgreSQL,5,15
+1812,189,17,Git & GitHub,3,9
+1813,189,23,Problem Solving & DSA,3,9
+1814,189,21,Pandas & NumPy,2,6
+1815,189,20,Machine Learning,3,6
+1816,189,18,Docker,2,8
+1817,189,24,Teamwork & Collaboration,3,12
+1818,190,1,Java,4,12
+1819,190,10,Spring Boot,4,12
+1820,190,12,RESTful APIs,5,20
+1821,190,14,PostgreSQL,5,30
+1822,190,18,Docker,4,16
+1823,190,13,Microservices,4,16
+1824,190,11,Node.js & Express,2,4
+1825,190,17,Git & GitHub,1,3
+1826,190,19,AWS (Amazon Web Services),1,3
+1827,190,23,Problem Solving & DSA,5,12
+1828,191,2,Python,4,12
+1829,191,12,RESTful APIs,3,15
+1830,191,14,PostgreSQL,5,30
+1831,191,17,Git & GitHub,4,20
+1832,191,23,Problem Solving & DSA,4,20
+1833,191,18,Docker,2,8
+1834,191,21,Pandas & NumPy,2,8
+1835,191,20,Machine Learning,2,4
+1836,191,23,Problem Solving & DSA,5,12
+1837,191,24,Teamwork & Collaboration,3,12
+1838,192,1,Java,4,12
+1839,192,10,Spring Boot,4,20
+1840,192,12,RESTful APIs,3,15
+1841,192,14,PostgreSQL,3,9
+1842,192,17,Git & GitHub,3,9
+1843,192,23,Problem Solving & DSA,3,12
+1844,192,18,Docker,1,4
+1845,192,15,MySQL,1,4
+1846,192,7,HTML5 & CSS3,2,8
+1847,192,23,Problem Solving & DSA,3,12
+1848,192,24,Teamwork & Collaboration,5,12
+1849,193,18,Docker,4,20
+1850,193,19,AWS (Amazon Web Services),3,9
+1851,193,17,Git & GitHub,3,9
+1852,193,2,Python,4,20
+1853,193,13,Microservices,5,25
+1854,193,12,RESTful APIs,2,6
+1855,193,14,PostgreSQL,3,6
+1856,193,23,Problem Solving & DSA,3,12
+1857,193,24,Teamwork & Collaboration,3,12
+1858,194,6,React,3,9
+1859,194,3,JavaScript,3,15
+1860,194,10,Spring Boot,4,12
+1861,194,7,HTML5 & CSS3,5,20
+1862,194,14,PostgreSQL,4,12
+1863,194,17,Git & GitHub,5,30
+1864,194,12,RESTful APIs,3,12
+1865,194,4,TypeScript,1,4
+1866,194,8,Tailwind CSS,3,9
+1867,194,23,Problem Solving & DSA,4,12
+1868,194,24,Teamwork & Collaboration,3,12
+1869,195,18,Docker,4,20
+1870,195,19,AWS (Amazon Web Services),4,12
+1871,195,17,Git & GitHub,4,20
+1872,195,2,Python,3,18
+1873,195,13,Microservices,4,20
+1874,195,14,PostgreSQL,2,6
+1875,195,12,RESTful APIs,2,6
+1876,195,23,Problem Solving & DSA,3,12
+1877,195,24,Teamwork & Collaboration,4,12
+1878,196,1,Java,3,12
+1879,196,10,Spring Boot,4,12
+1880,196,12,RESTful APIs,4,20
+1881,196,14,PostgreSQL,4,24
+1882,196,18,Docker,5,15
+1883,196,13,Microservices,3,9
+1884,196,17,Git & GitHub,1,4
+1885,196,11,Node.js & Express,2,6
+1886,196,19,AWS (Amazon Web Services),3,12
+1887,196,24,Teamwork & Collaboration,3,12
+1888,197,1,Java,3,9
+1889,197,10,Spring Boot,5,15
+1890,197,12,RESTful APIs,4,16
+1891,197,14,PostgreSQL,5,15
+1892,197,17,Git & GitHub,5,15
+1893,197,23,Problem Solving & DSA,3,12
+1894,197,18,Docker,1,4
+1895,197,7,HTML5 & CSS3,2,6
+1896,197,13,Microservices,1,4
+1897,197,23,Problem Solving & DSA,3,12
+1898,197,24,Teamwork & Collaboration,3,12
+1899,198,6,React,3,18
+1900,198,3,JavaScript,3,15
+1901,198,10,Spring Boot,4,24
+1902,198,7,HTML5 & CSS3,3,9
+1903,198,14,PostgreSQL,3,18
+1904,198,17,Git & GitHub,4,12
+1905,198,18,Docker,1,2
+1906,198,4,TypeScript,2,8
+1907,198,12,RESTful APIs,3,9
+1908,198,23,Problem Solving & DSA,4,12
+1909,198,24,Teamwork & Collaboration,3,12
+1910,199,1,Java,4,12
+1911,199,10,Spring Boot,4,20
+1912,199,12,RESTful APIs,4,12
+1913,199,14,PostgreSQL,4,16
+1914,199,17,Git & GitHub,3,9
+1915,199,23,Problem Solving & DSA,4,16
+1916,199,7,HTML5 & CSS3,1,2
+1917,199,15,MySQL,1,2
+1918,199,18,Docker,2,6
+1919,199,23,Problem Solving & DSA,3,12
+1920,199,24,Teamwork & Collaboration,3,12
+1921,200,2,Python,4,24
+1922,200,20,Machine Learning,3,9
+1923,200,21,Pandas & NumPy,5,20
+1924,200,22,Natural Language Processing (NLP),3,9
+1925,200,23,Problem Solving & DSA,4,12
+1926,200,18,Docker,2,6
+1927,200,14,PostgreSQL,2,8
+1928,200,17,Git & GitHub,2,6
+1929,201,1,Java,4,12
+1930,201,10,Spring Boot,5,20
+1931,201,12,RESTful APIs,3,18
+1932,201,14,PostgreSQL,3,15
+1933,201,18,Docker,3,12
+1934,201,13,Microservices,4,20
+1935,201,11,Node.js & Express,1,4
+1936,201,17,Git & GitHub,1,2
+1937,201,19,AWS (Amazon Web Services),1,3
+1938,201,23,Problem Solving & DSA,3,12
+1939,201,24,Teamwork & Collaboration,3,12
+1940,202,6,React,4,24
+1941,202,3,JavaScript,5,20
+1942,202,4,TypeScript,4,24
+1943,202,7,HTML5 & CSS3,3,18
+1944,202,8,Tailwind CSS,4,16
+1945,202,17,Git & GitHub,3,18
+1946,202,23,Problem Solving & DSA,3,6
+1947,202,9,Angular,2,4
+1948,202,12,RESTful APIs,1,3
+1949,202,23,Problem Solving & DSA,5,12
+1950,203,1,Java,4,24
+1951,203,10,Spring Boot,5,20
+1952,203,12,RESTful APIs,4,16
+1953,203,14,PostgreSQL,4,12
+1954,203,18,Docker,3,15
+1955,203,13,Microservices,3,18
+1956,203,19,AWS (Amazon Web Services),2,4
+1957,203,11,Node.js & Express,3,9
+1958,203,17,Git & GitHub,1,3
+1959,203,23,Problem Solving & DSA,5,12
+1960,203,24,Teamwork & Collaboration,5,12
+1961,204,1,Java,4,16
+1962,204,10,Spring Boot,4,12
+1963,204,12,RESTful APIs,4,20
+1964,204,14,PostgreSQL,4,12
+1965,204,17,Git & GitHub,4,20
+1966,204,23,Problem Solving & DSA,5,15
+1967,204,7,HTML5 & CSS3,2,6
+1968,204,13,Microservices,1,4
+1969,204,15,MySQL,2,4
+1970,204,23,Problem Solving & DSA,3,12
+1971,205,1,Java,4,20
+1972,205,10,Spring Boot,4,24
+1973,205,12,RESTful APIs,3,9
+1974,205,14,PostgreSQL,4,24
+1975,205,18,Docker,4,12
+1976,205,13,Microservices,4,20
+1977,205,17,Git & GitHub,1,3
+1978,205,19,AWS (Amazon Web Services),1,3
+1979,205,11,Node.js & Express,3,9
+1980,205,23,Problem Solving & DSA,3,12
+1981,206,6,React,3,12
+1982,206,3,JavaScript,4,24
+1983,206,4,TypeScript,4,12
+1984,206,7,HTML5 & CSS3,3,9
+1985,206,8,Tailwind CSS,3,12
+1986,206,17,Git & GitHub,5,25
+1987,206,12,RESTful APIs,2,8
+1988,206,23,Problem Solving & DSA,2,8
+1989,206,9,Angular,2,6
+1990,206,23,Problem Solving & DSA,4,12
+1991,207,1,Java,3,12
+1992,207,10,Spring Boot,4,16
+1993,207,12,RESTful APIs,4,20
+1994,207,14,PostgreSQL,3,12
+1995,207,17,Git & GitHub,5,20
+1996,207,23,Problem Solving & DSA,3,9
+1997,207,18,Docker,2,6
+1998,207,13,Microservices,1,4
+1999,207,7,HTML5 & CSS3,2,8
+2000,207,23,Problem Solving & DSA,4,12
+2001,208,2,Python,4,24
+2002,208,12,RESTful APIs,4,24
+2003,208,14,PostgreSQL,5,20
+2004,208,17,Git & GitHub,3,15
+2005,208,23,Problem Solving & DSA,4,20
+2006,208,21,Pandas & NumPy,2,8
+2007,208,20,Machine Learning,3,9
+2008,208,18,Docker,1,2
+2009,208,23,Problem Solving & DSA,3,12
+2010,209,18,Docker,4,16
+2011,209,19,AWS (Amazon Web Services),4,16
+2012,209,17,Git & GitHub,4,20
+2013,209,2,Python,3,9
+2014,209,13,Microservices,4,24
+2015,209,14,PostgreSQL,1,3
+2016,209,12,RESTful APIs,2,8
+2017,209,23,Problem Solving & DSA,5,12
+2018,209,24,Teamwork & Collaboration,3,12
+2019,210,1,Java,4,24
+2020,210,10,Spring Boot,5,15
+2021,210,12,RESTful APIs,3,18
+2022,210,14,PostgreSQL,4,24
+2023,210,17,Git & GitHub,5,25
+2024,210,23,Problem Solving & DSA,3,18
+2025,210,7,HTML5 & CSS3,1,3
+2026,210,18,Docker,2,8
+2027,210,15,MySQL,3,6
+2028,210,23,Problem Solving & DSA,5,12
+2029,210,24,Teamwork & Collaboration,3,12
+2030,211,6,React,5,25
+2031,211,3,JavaScript,4,12
+2032,211,4,TypeScript,5,25
+2033,211,7,HTML5 & CSS3,5,25
+2034,211,8,Tailwind CSS,4,24
+2035,211,17,Git & GitHub,3,9
+2036,211,9,Angular,3,12
+2037,211,12,RESTful APIs,2,8
+2038,211,23,Problem Solving & DSA,2,6
+2039,211,23,Problem Solving & DSA,4,12
+2040,211,24,Teamwork & Collaboration,5,12
+2041,212,18,Docker,4,24
+2042,212,19,AWS (Amazon Web Services),5,30
+2043,212,17,Git & GitHub,5,15
+2044,212,2,Python,4,12
+2045,212,13,Microservices,5,20
+2046,212,14,PostgreSQL,1,4
+2047,212,12,RESTful APIs,1,2
+2048,212,24,Teamwork & Collaboration,5,12
+2049,213,1,Java,4,16
+2050,213,10,Spring Boot,4,20
+2051,213,12,RESTful APIs,5,25
+2052,213,14,PostgreSQL,3,15
+2053,213,18,Docker,3,15
+2054,213,13,Microservices,5,15
+2055,213,11,Node.js & Express,2,6
+2056,213,17,Git & GitHub,1,2
+2057,213,19,AWS (Amazon Web Services),1,2
+2058,213,23,Problem Solving & DSA,3,12
+2059,213,24,Teamwork & Collaboration,5,12
+2060,214,18,Docker,5,15
+2061,214,19,AWS (Amazon Web Services),4,20
+2062,214,17,Git & GitHub,4,16
+2063,214,2,Python,5,25
+2064,214,13,Microservices,3,15
+2065,214,14,PostgreSQL,1,4
+2066,214,12,RESTful APIs,1,2
+2067,214,23,Problem Solving & DSA,3,12
+2068,215,2,Python,3,9
+2069,215,20,Machine Learning,4,20
+2070,215,21,Pandas & NumPy,3,15
+2071,215,22,Natural Language Processing (NLP),4,12
+2072,215,23,Problem Solving & DSA,4,16
+2073,215,14,PostgreSQL,2,4
+2074,215,18,Docker,1,4
+2075,215,17,Git & GitHub,3,12
+2076,215,23,Problem Solving & DSA,3,12
+2077,215,24,Teamwork & Collaboration,5,12
+2078,216,1,Java,5,20
+2079,216,10,Spring Boot,5,15
+2080,216,12,RESTful APIs,5,15
+2081,216,14,PostgreSQL,5,30
+2082,216,17,Git & GitHub,4,16
+2083,216,23,Problem Solving & DSA,4,12
+2084,216,13,Microservices,2,8
+2085,216,7,HTML5 & CSS3,1,2
+2086,216,15,MySQL,2,6
+2087,217,6,React,3,15
+2088,217,3,JavaScript,4,20
+2089,217,10,Spring Boot,4,24
+2090,217,7,HTML5 & CSS3,3,18
+2091,217,14,PostgreSQL,3,18
+2092,217,17,Git & GitHub,3,9
+2093,217,18,Docker,1,4
+2094,217,12,RESTful APIs,2,4
+2095,217,8,Tailwind CSS,1,4
+2096,217,23,Problem Solving & DSA,3,12
+2097,218,6,React,5,25
+2098,218,3,JavaScript,3,18
+2099,218,4,TypeScript,3,18
+2100,218,7,HTML5 & CSS3,4,20
+2101,218,8,Tailwind CSS,4,20
+2102,218,17,Git & GitHub,4,24
+2103,218,12,RESTful APIs,3,12
+2104,218,23,Problem Solving & DSA,1,3
+2105,218,9,Angular,1,3
+2106,218,23,Problem Solving & DSA,3,12
+2107,218,24,Teamwork & Collaboration,3,12
+2108,219,6,React,3,9
+2109,219,3,JavaScript,4,24
+2110,219,4,TypeScript,4,16
+2111,219,7,HTML5 & CSS3,3,18
+2112,219,8,Tailwind CSS,4,20
+2113,219,17,Git & GitHub,4,12
+2114,219,9,Angular,1,3
+2115,219,12,RESTful APIs,3,9
+2116,219,23,Problem Solving & DSA,2,4
+2117,219,24,Teamwork & Collaboration,4,12
+2118,220,2,Python,4,24
+2119,220,12,RESTful APIs,4,24
+2120,220,14,PostgreSQL,4,16
+2121,220,17,Git & GitHub,4,24
+2122,220,23,Problem Solving & DSA,3,18
+2123,220,20,Machine Learning,1,2
+2124,220,21,Pandas & NumPy,2,4
+2125,220,18,Docker,3,9
+2126,220,23,Problem Solving & DSA,5,12
+2127,221,2,Python,3,15
+2128,221,21,Pandas & NumPy,4,12
+2129,221,14,PostgreSQL,5,15
+2130,221,15,MySQL,4,12
+2131,221,23,Problem Solving & DSA,4,12
+2132,221,17,Git & GitHub,2,6
+2133,221,20,Machine Learning,1,4
+2134,221,23,Problem Solving & DSA,3,12
+2135,221,24,Teamwork & Collaboration,4,12
+2136,222,6,React,4,16
+2137,222,3,JavaScript,4,20
+2138,222,10,Spring Boot,3,15
+2139,222,7,HTML5 & CSS3,4,24
+2140,222,14,PostgreSQL,3,9
+2141,222,17,Git & GitHub,5,20
+2142,222,12,RESTful APIs,1,4
+2143,222,8,Tailwind CSS,2,4
+2144,222,4,TypeScript,2,4
+2145,222,23,Problem Solving & DSA,5,12
+2146,223,1,Java,4,20
+2147,223,10,Spring Boot,4,20
+2148,223,12,RESTful APIs,4,20
+2149,223,14,PostgreSQL,3,18
+2150,223,18,Docker,3,18
+2151,223,13,Microservices,4,16
+2152,223,11,Node.js & Express,1,4
+2153,223,19,AWS (Amazon Web Services),3,9
+2154,223,17,Git & GitHub,3,12
+2155,223,23,Problem Solving & DSA,4,12
+2156,223,24,Teamwork & Collaboration,5,12
+2157,224,18,Docker,3,15
+2158,224,19,AWS (Amazon Web Services),5,30
+2159,224,17,Git & GitHub,4,12
+2160,224,2,Python,4,24
+2161,224,13,Microservices,3,15
+2162,224,14,PostgreSQL,2,4
+2163,224,12,RESTful APIs,2,4
+2164,225,1,Java,3,9
+2165,225,10,Spring Boot,3,15
+2166,225,12,RESTful APIs,4,16
+2167,225,14,PostgreSQL,4,12
+2168,225,17,Git & GitHub,5,30
+2169,225,23,Problem Solving & DSA,4,12
+2170,225,18,Docker,3,9
+2171,225,13,Microservices,3,12
+2172,225,15,MySQL,2,4
+2173,225,23,Problem Solving & DSA,5,12
+2174,225,24,Teamwork & Collaboration,3,12
+2175,226,2,Python,3,9
+2176,226,12,RESTful APIs,4,20
+2177,226,14,PostgreSQL,4,24
+2178,226,17,Git & GitHub,5,20
+2179,226,23,Problem Solving & DSA,5,20
+2180,226,18,Docker,1,3
+2181,226,20,Machine Learning,2,6
+2182,226,21,Pandas & NumPy,3,6
+2183,226,23,Problem Solving & DSA,4,12
+2184,226,24,Teamwork & Collaboration,3,12
+2185,227,6,React,4,20
+2186,227,3,JavaScript,3,9
+2187,227,4,TypeScript,5,15
+2188,227,7,HTML5 & CSS3,4,16
+2189,227,8,Tailwind CSS,3,18
+2190,227,17,Git & GitHub,4,20
+2191,227,23,Problem Solving & DSA,3,9
+2192,227,9,Angular,1,3
+2193,227,12,RESTful APIs,3,9
+2194,227,23,Problem Solving & DSA,3,12
+2195,228,2,Python,5,30
+2196,228,20,Machine Learning,4,24
+2197,228,21,Pandas & NumPy,5,25
+2198,228,22,Natural Language Processing (NLP),4,12
+2199,228,23,Problem Solving & DSA,5,25
+2200,228,14,PostgreSQL,2,8
+2201,228,18,Docker,3,12
+2202,228,17,Git & GitHub,1,4
+2203,229,2,Python,3,12
+2204,229,21,Pandas & NumPy,5,30
+2205,229,14,PostgreSQL,4,20
+2206,229,15,MySQL,4,16
+2207,229,23,Problem Solving & DSA,3,15
+2208,229,17,Git & GitHub,1,3
+2209,229,20,Machine Learning,1,3
+2210,229,23,Problem Solving & DSA,5,12
+2211,230,18,Docker,4,16
+2212,230,19,AWS (Amazon Web Services),3,18
+2213,230,17,Git & GitHub,4,16
+2214,230,2,Python,3,15
+2215,230,13,Microservices,3,9
+2216,230,14,PostgreSQL,2,6
+2217,230,12,RESTful APIs,3,9
+2218,230,24,Teamwork & Collaboration,3,12
+2219,231,1,Java,4,24
+2220,231,10,Spring Boot,4,12
+2221,231,12,RESTful APIs,3,15
+2222,231,14,PostgreSQL,3,18
+2223,231,18,Docker,5,25
+2224,231,13,Microservices,4,24
+2225,231,11,Node.js & Express,1,3
+2226,231,19,AWS (Amazon Web Services),3,9
+2227,231,17,Git & GitHub,2,8
+2228,231,23,Problem Solving & DSA,4,12
+2229,231,24,Teamwork & Collaboration,4,12
+2230,232,2,Python,5,15
+2231,232,21,Pandas & NumPy,3,18
+2232,232,14,PostgreSQL,4,24
+2233,232,15,MySQL,4,16
+2234,232,23,Problem Solving & DSA,5,15
+2235,232,20,Machine Learning,1,3
+2236,232,17,Git & GitHub,3,9
+2237,232,24,Teamwork & Collaboration,5,12
+2238,233,18,Docker,5,25
+2239,233,19,AWS (Amazon Web Services),5,25
+2240,233,17,Git & GitHub,4,20
+2241,233,2,Python,4,24
+2242,233,13,Microservices,5,25
+2243,233,12,RESTful APIs,2,8
+2244,233,14,PostgreSQL,2,6
+2245,234,2,Python,4,24
+2246,234,12,RESTful APIs,3,15
+2247,234,14,PostgreSQL,5,30
+2248,234,17,Git & GitHub,4,12
+2249,234,23,Problem Solving & DSA,5,20
+2250,234,18,Docker,1,3
+2251,234,21,Pandas & NumPy,1,2
+2252,234,20,Machine Learning,2,6
+2253,234,23,Problem Solving & DSA,5,12
+2254,234,24,Teamwork & Collaboration,5,12
+2255,235,18,Docker,3,9
+2256,235,19,AWS (Amazon Web Services),4,12
+2257,235,17,Git & GitHub,5,20
+2258,235,2,Python,3,18
+2259,235,13,Microservices,5,30
+2260,235,12,RESTful APIs,2,4
+2261,235,14,PostgreSQL,1,2
+2262,235,23,Problem Solving & DSA,4,12
+2263,235,24,Teamwork & Collaboration,5,12
+2264,236,2,Python,4,24
+2265,236,12,RESTful APIs,3,15
+2266,236,14,PostgreSQL,3,18
+2267,236,17,Git & GitHub,3,12
+2268,236,23,Problem Solving & DSA,3,18
+2269,236,21,Pandas & NumPy,1,3
+2270,236,18,Docker,2,6
+2271,236,20,Machine Learning,3,12
+2272,236,24,Teamwork & Collaboration,4,12
+2273,237,2,Python,5,20
+2274,237,20,Machine Learning,4,24
+2275,237,21,Pandas & NumPy,3,15
+2276,237,22,Natural Language Processing (NLP),5,20
+2277,237,23,Problem Solving & DSA,4,16
+2278,237,17,Git & GitHub,2,4
+2279,237,18,Docker,3,9
+2280,237,14,PostgreSQL,1,2
+2281,237,23,Problem Solving & DSA,4,12
+2282,237,24,Teamwork & Collaboration,5,12
+2283,238,6,React,4,24
+2284,238,3,JavaScript,3,15
+2285,238,10,Spring Boot,4,12
+2286,238,7,HTML5 & CSS3,4,12
+2287,238,14,PostgreSQL,3,18
+2288,238,17,Git & GitHub,3,12
+2289,238,18,Docker,2,8
+2290,238,4,TypeScript,1,4
+2291,238,12,RESTful APIs,2,8
+2292,238,23,Problem Solving & DSA,4,12
+2293,238,24,Teamwork & Collaboration,3,12
+2294,239,6,React,3,9
+2295,239,3,JavaScript,3,18
+2296,239,10,Spring Boot,4,24
+2297,239,7,HTML5 & CSS3,5,30
+2298,239,14,PostgreSQL,4,20
+2299,239,17,Git & GitHub,4,24
+2300,239,12,RESTful APIs,1,2
+2301,239,4,TypeScript,1,2
+2302,239,18,Docker,2,4
+2303,239,23,Problem Solving & DSA,3,12
+2304,239,24,Teamwork & Collaboration,3,12
+2305,240,2,Python,4,12
+2306,240,12,RESTful APIs,3,12
+2307,240,14,PostgreSQL,4,24
+2308,240,17,Git & GitHub,5,30
+2309,240,23,Problem Solving & DSA,3,18
+2310,240,20,Machine Learning,1,3
+2311,240,18,Docker,1,2
+2312,240,21,Pandas & NumPy,1,4
+2313,240,23,Problem Solving & DSA,4,12
+2314,240,24,Teamwork & Collaboration,5,12
+2315,241,18,Docker,4,24
+2316,241,19,AWS (Amazon Web Services),4,12
+2317,241,17,Git & GitHub,3,18
+2318,241,2,Python,5,15
+2319,241,13,Microservices,4,20
+2320,241,12,RESTful APIs,1,3
+2321,241,14,PostgreSQL,2,6
+2322,241,23,Problem Solving & DSA,3,12
+2323,241,24,Teamwork & Collaboration,5,12
+2324,242,2,Python,5,25
+2325,242,12,RESTful APIs,4,16
+2326,242,14,PostgreSQL,4,20
+2327,242,17,Git & GitHub,4,12
+2328,242,23,Problem Solving & DSA,4,16
+2329,242,18,Docker,2,4
+2330,242,20,Machine Learning,2,6
+2331,242,21,Pandas & NumPy,1,2
+2332,242,23,Problem Solving & DSA,3,12
+2333,242,24,Teamwork & Collaboration,4,12
+2334,243,2,Python,3,12
+2335,243,20,Machine Learning,4,20
+2336,243,21,Pandas & NumPy,4,12
+2337,243,22,Natural Language Processing (NLP),4,20
+2338,243,23,Problem Solving & DSA,5,15
+2339,243,14,PostgreSQL,2,4
+2340,243,18,Docker,3,12
+2341,243,17,Git & GitHub,2,4
+2342,243,23,Problem Solving & DSA,3,12
+2343,243,24,Teamwork & Collaboration,3,12
+2344,244,2,Python,4,12
+2345,244,12,RESTful APIs,3,15
+2346,244,14,PostgreSQL,4,16
+2347,244,17,Git & GitHub,3,12
+2348,244,23,Problem Solving & DSA,4,24
+2349,244,18,Docker,1,4
+2350,244,20,Machine Learning,1,3
+2351,244,21,Pandas & NumPy,1,3
+2352,244,23,Problem Solving & DSA,5,12
+2353,245,2,Python,5,30
+2354,245,20,Machine Learning,3,9
+2355,245,21,Pandas & NumPy,4,12
+2356,245,22,Natural Language Processing (NLP),3,15
+2357,245,23,Problem Solving & DSA,4,16
+2358,245,17,Git & GitHub,2,8
+2359,245,18,Docker,3,6
+2360,245,14,PostgreSQL,3,6
+2361,245,23,Problem Solving & DSA,5,12
+2362,245,24,Teamwork & Collaboration,5,12
+2363,246,2,Python,3,15
+2364,246,12,RESTful APIs,5,20
+2365,246,14,PostgreSQL,4,24
+2366,246,17,Git & GitHub,4,24
+2367,246,23,Problem Solving & DSA,4,24
+2368,246,18,Docker,1,3
+2369,246,21,Pandas & NumPy,1,4
+2370,246,20,Machine Learning,2,4
+2371,246,23,Problem Solving & DSA,5,12
+2372,247,1,Java,3,15
+2373,247,10,Spring Boot,4,12
+2374,247,12,RESTful APIs,4,20
+2375,247,14,PostgreSQL,3,15
+2376,247,17,Git & GitHub,3,9
+2377,247,23,Problem Solving & DSA,4,12
+2378,247,7,HTML5 & CSS3,3,12
+2379,247,13,Microservices,2,8
+2380,247,18,Docker,2,8
+2381,248,1,Java,4,16
+2382,248,10,Spring Boot,5,25
+2383,248,12,RESTful APIs,4,16
+2384,248,14,PostgreSQL,4,24
+2385,248,18,Docker,3,9
+2386,248,13,Microservices,4,16
+2387,248,17,Git & GitHub,1,4
+2388,248,11,Node.js & Express,2,8
+2389,248,19,AWS (Amazon Web Services),2,6
+2390,248,23,Problem Solving & DSA,5,12
+2391,248,24,Teamwork & Collaboration,4,12
+2392,249,18,Docker,4,24
+2393,249,19,AWS (Amazon Web Services),4,16
+2394,249,17,Git & GitHub,5,25
+2395,249,2,Python,5,15
+2396,249,13,Microservices,4,24
+2397,249,14,PostgreSQL,1,3
+2398,249,12,RESTful APIs,1,2
+2399,249,24,Teamwork & Collaboration,4,12
+2400,250,6,React,3,15
+2401,250,3,JavaScript,5,20
+2402,250,4,TypeScript,3,18
+2403,250,7,HTML5 & CSS3,3,15
+2404,250,8,Tailwind CSS,3,9
+2405,250,17,Git & GitHub,4,20
+2406,250,23,Problem Solving & DSA,2,6
+2407,250,12,RESTful APIs,3,12
+2408,250,9,Angular,1,2
+2409,250,23,Problem Solving & DSA,4,12
+2410,250,24,Teamwork & Collaboration,5,12
+2411,251,2,Python,5,25
+2412,251,20,Machine Learning,4,24
+2413,251,21,Pandas & NumPy,4,12
+2414,251,22,Natural Language Processing (NLP),5,15
+2415,251,23,Problem Solving & DSA,4,20
+2416,251,14,PostgreSQL,1,4
+2417,251,18,Docker,2,4
+2418,251,17,Git & GitHub,3,12
+2419,251,24,Teamwork & Collaboration,3,12
+2420,252,2,Python,5,30
+2421,252,12,RESTful APIs,3,15
+2422,252,14,PostgreSQL,4,12
+2423,252,17,Git & GitHub,4,12
+2424,252,23,Problem Solving & DSA,4,16
+2425,252,21,Pandas & NumPy,1,2
+2426,252,18,Docker,1,2
+2427,252,20,Machine Learning,2,6
+2428,253,2,Python,4,20
+2429,253,21,Pandas & NumPy,4,20
+2430,253,14,PostgreSQL,3,15
+2431,253,15,MySQL,3,9
+2432,253,23,Problem Solving & DSA,3,12
+2433,253,20,Machine Learning,2,8
+2434,253,17,Git & GitHub,1,2
+2435,253,24,Teamwork & Collaboration,5,12
+2436,254,2,Python,3,9
+2437,254,20,Machine Learning,3,12
+2438,254,21,Pandas & NumPy,4,24
+2439,254,22,Natural Language Processing (NLP),4,16
+2440,254,23,Problem Solving & DSA,4,16
+2441,254,17,Git & GitHub,2,6
+2442,254,18,Docker,3,12
+2443,254,14,PostgreSQL,2,4
+2444,254,23,Problem Solving & DSA,5,12
+2445,255,2,Python,4,20
+2446,255,20,Machine Learning,3,9
+2447,255,21,Pandas & NumPy,4,24
+2448,255,22,Natural Language Processing (NLP),4,16
+2449,255,23,Problem Solving & DSA,4,20
+2450,255,17,Git & GitHub,3,9
+2451,255,18,Docker,2,8
+2452,255,14,PostgreSQL,2,4
+2453,255,23,Problem Solving & DSA,4,12
+2454,255,24,Teamwork & Collaboration,4,12
+2455,256,6,React,3,9
+2456,256,3,JavaScript,4,24
+2457,256,4,TypeScript,4,24
+2458,256,7,HTML5 & CSS3,4,12
+2459,256,8,Tailwind CSS,4,12
+2460,256,17,Git & GitHub,4,24
+2461,256,23,Problem Solving & DSA,3,9
+2462,256,9,Angular,3,9
+2463,256,12,RESTful APIs,1,4
+2464,256,23,Problem Solving & DSA,3,12
+2465,256,24,Teamwork & Collaboration,3,12
+2466,257,2,Python,5,25
+2467,257,21,Pandas & NumPy,5,20
+2468,257,14,PostgreSQL,3,18
+2469,257,15,MySQL,5,15
+2470,257,23,Problem Solving & DSA,3,12
+2471,257,20,Machine Learning,3,12
+2472,257,17,Git & GitHub,1,3
+2473,257,23,Problem Solving & DSA,4,12
+2474,258,6,React,3,12
+2475,258,3,JavaScript,5,25
+2476,258,4,TypeScript,3,9
+2477,258,7,HTML5 & CSS3,5,25
+2478,258,8,Tailwind CSS,4,24
+2479,258,17,Git & GitHub,3,18
+2480,258,23,Problem Solving & DSA,2,6
+2481,258,9,Angular,1,4
+2482,258,12,RESTful APIs,2,6
+2483,258,23,Problem Solving & DSA,3,12
+2484,258,24,Teamwork & Collaboration,3,12
+2485,259,1,Java,5,15
+2486,259,10,Spring Boot,5,20
+2487,259,12,RESTful APIs,5,30
+2488,259,14,PostgreSQL,5,20
+2489,259,18,Docker,3,15
+2490,259,13,Microservices,4,12
+2491,259,11,Node.js & Express,3,12
+2492,259,17,Git & GitHub,2,6
+2493,259,19,AWS (Amazon Web Services),3,6
+2494,260,1,Java,4,24
+2495,260,10,Spring Boot,4,12
+2496,260,12,RESTful APIs,5,15
+2497,260,14,PostgreSQL,4,12
+2498,260,18,Docker,4,12
+2499,260,13,Microservices,5,30
+2500,260,11,Node.js & Express,1,4
+2501,260,17,Git & GitHub,1,2
+2502,260,19,AWS (Amazon Web Services),1,3
+2503,260,23,Problem Solving & DSA,5,12
+2504,260,24,Teamwork & Collaboration,3,12
+2505,261,6,React,4,20
+2506,261,3,JavaScript,4,12
+2507,261,10,Spring Boot,3,9
+2508,261,7,HTML5 & CSS3,4,16
+2509,261,14,PostgreSQL,5,20
+2510,261,17,Git & GitHub,4,20
+2511,261,12,RESTful APIs,2,6
+2512,261,8,Tailwind CSS,1,2
+2513,261,18,Docker,2,4
+2514,261,24,Teamwork & Collaboration,5,12
+2515,262,18,Docker,3,9
+2516,262,19,AWS (Amazon Web Services),4,16
+2517,262,17,Git & GitHub,3,9
+2518,262,2,Python,4,16
+2519,262,13,Microservices,5,20
+2520,262,14,PostgreSQL,1,3
+2521,262,12,RESTful APIs,2,6
+2522,262,23,Problem Solving & DSA,4,12
+2523,262,24,Teamwork & Collaboration,5,12
+2524,263,1,Java,5,20
+2525,263,10,Spring Boot,4,24
+2526,263,12,RESTful APIs,4,16
+2527,263,14,PostgreSQL,4,20
+2528,263,17,Git & GitHub,5,30
+2529,263,23,Problem Solving & DSA,3,12
+2530,263,18,Docker,1,2
+2531,263,13,Microservices,2,4
+2532,263,7,HTML5 & CSS3,1,2
+2533,263,23,Problem Solving & DSA,4,12
+2534,264,6,React,4,20
+2535,264,3,JavaScript,5,20
+2536,264,4,TypeScript,3,9
+2537,264,7,HTML5 & CSS3,3,15
+2538,264,8,Tailwind CSS,5,15
+2539,264,17,Git & GitHub,5,20
+2540,264,12,RESTful APIs,3,9
+2541,264,9,Angular,2,6
+2542,264,23,Problem Solving & DSA,3,12
+2543,264,24,Teamwork & Collaboration,5,12
+2544,265,1,Java,4,20
+2545,265,10,Spring Boot,4,16
+2546,265,12,RESTful APIs,5,20
+2547,265,14,PostgreSQL,5,25
+2548,265,18,Docker,4,20
+2549,265,13,Microservices,3,15
+2550,265,11,Node.js & Express,2,6
+2551,265,17,Git & GitHub,2,8
+2552,265,19,AWS (Amazon Web Services),1,4
+2553,265,23,Problem Solving & DSA,5,12
+2554,265,24,Teamwork & Collaboration,4,12
+2555,266,2,Python,4,24
+2556,266,21,Pandas & NumPy,4,24
+2557,266,14,PostgreSQL,4,12
+2558,266,15,MySQL,3,12
+2559,266,23,Problem Solving & DSA,4,16
+2560,266,17,Git & GitHub,1,3
+2561,266,20,Machine Learning,2,6
+2562,267,18,Docker,4,24
+2563,267,19,AWS (Amazon Web Services),4,24
+2564,267,17,Git & GitHub,4,24
+2565,267,2,Python,3,18
+2566,267,13,Microservices,3,9
+2567,267,12,RESTful APIs,1,4
+2568,267,14,PostgreSQL,2,8
+2569,268,2,Python,4,20
+2570,268,21,Pandas & NumPy,3,15
+2571,268,14,PostgreSQL,3,12
+2572,268,15,MySQL,5,25
+2573,268,23,Problem Solving & DSA,3,15
+2574,268,17,Git & GitHub,2,6
+2575,268,20,Machine Learning,3,12
+2576,268,23,Problem Solving & DSA,3,12
+2577,268,24,Teamwork & Collaboration,5,12
+2578,269,1,Java,4,12
+2579,269,10,Spring Boot,4,16
+2580,269,12,RESTful APIs,4,24
+2581,269,14,PostgreSQL,3,18
+2582,269,18,Docker,5,15
+2583,269,13,Microservices,4,16
+2584,269,17,Git & GitHub,3,9
+2585,269,11,Node.js & Express,1,3
+2586,269,19,AWS (Amazon Web Services),2,6
+2587,269,23,Problem Solving & DSA,5,12
+2588,269,24,Teamwork & Collaboration,4,12
+2589,270,6,React,5,20
+2590,270,3,JavaScript,5,15
+2591,270,4,TypeScript,4,16
+2592,270,7,HTML5 & CSS3,4,20
+2593,270,8,Tailwind CSS,4,24
+2594,270,17,Git & GitHub,4,20
+2595,270,9,Angular,2,4
+2596,270,23,Problem Solving & DSA,1,4
+2597,270,12,RESTful APIs,2,4
+2598,271,18,Docker,4,16
+2599,271,19,AWS (Amazon Web Services),4,24
+2600,271,17,Git & GitHub,4,12
+2601,271,2,Python,3,18
+2602,271,13,Microservices,4,12
+2603,271,12,RESTful APIs,1,2
+2604,271,14,PostgreSQL,1,4
+2605,271,23,Problem Solving & DSA,3,12
+2606,271,24,Teamwork & Collaboration,4,12
+2607,272,1,Java,4,24
+2608,272,10,Spring Boot,4,16
+2609,272,12,RESTful APIs,4,24
+2610,272,14,PostgreSQL,4,12
+2611,272,18,Docker,4,20
+2612,272,13,Microservices,4,24
+2613,272,17,Git & GitHub,2,4
+2614,272,19,AWS (Amazon Web Services),2,4
+2615,272,11,Node.js & Express,3,12
+2616,272,23,Problem Solving & DSA,4,12
+2617,272,24,Teamwork & Collaboration,3,12
+2618,273,6,React,4,12
+2619,273,3,JavaScript,4,16
+2620,273,4,TypeScript,5,30
+2621,273,7,HTML5 & CSS3,5,15
+2622,273,8,Tailwind CSS,5,15
+2623,273,17,Git & GitHub,4,20
+2624,273,12,RESTful APIs,1,4
+2625,273,23,Problem Solving & DSA,1,2
+2626,273,9,Angular,1,4
+2627,273,23,Problem Solving & DSA,4,12
+2628,273,24,Teamwork & Collaboration,5,12
+2629,274,1,Java,4,16
+2630,274,10,Spring Boot,4,24
+2631,274,12,RESTful APIs,4,12
+2632,274,14,PostgreSQL,3,12
+2633,274,17,Git & GitHub,4,24
+2634,274,23,Problem Solving & DSA,3,15
+2635,274,13,Microservices,2,4
+2636,274,18,Docker,1,4
+2637,274,15,MySQL,2,4
+2638,274,24,Teamwork & Collaboration,5,12
+2639,275,1,Java,5,15
+2640,275,10,Spring Boot,4,20
+2641,275,12,RESTful APIs,4,12
+2642,275,14,PostgreSQL,3,18
+2643,275,18,Docker,4,16
+2644,275,13,Microservices,4,16
+2645,275,11,Node.js & Express,2,4
+2646,275,19,AWS (Amazon Web Services),1,2
+2647,275,17,Git & GitHub,2,4
+2648,275,24,Teamwork & Collaboration,5,12
+2649,276,6,React,4,16
+2650,276,3,JavaScript,4,24
+2651,276,10,Spring Boot,5,15
+2652,276,7,HTML5 & CSS3,3,9
+2653,276,14,PostgreSQL,4,16
+2654,276,17,Git & GitHub,3,15
+2655,276,4,TypeScript,2,4
+2656,276,8,Tailwind CSS,2,6
+2657,276,18,Docker,2,6
+2658,276,24,Teamwork & Collaboration,4,12
+2659,277,6,React,4,24
+2660,277,3,JavaScript,4,16
+2661,277,4,TypeScript,4,20
+2662,277,7,HTML5 & CSS3,5,30
+2663,277,8,Tailwind CSS,3,9
+2664,277,17,Git & GitHub,4,24
+2665,277,12,RESTful APIs,1,4
+2666,277,9,Angular,2,4
+2667,277,23,Problem Solving & DSA,1,4
+2668,277,23,Problem Solving & DSA,3,12
+2669,277,24,Teamwork & Collaboration,3,12
+2670,278,1,Java,3,9
+2671,278,10,Spring Boot,3,18
+2672,278,12,RESTful APIs,4,20
+2673,278,14,PostgreSQL,3,15
+2674,278,18,Docker,4,12
+2675,278,13,Microservices,4,24
+2676,278,19,AWS (Amazon Web Services),1,4
+2677,278,17,Git & GitHub,1,2
+2678,278,11,Node.js & Express,1,2
+2679,278,23,Problem Solving & DSA,5,12
+2680,278,24,Teamwork & Collaboration,5,12
+2681,279,1,Java,3,12
+2682,279,10,Spring Boot,3,12
+2683,279,12,RESTful APIs,5,20
+2684,279,14,PostgreSQL,3,12
+2685,279,17,Git & GitHub,3,9
+2686,279,23,Problem Solving & DSA,4,24
+2687,279,15,MySQL,1,2
+2688,279,18,Docker,2,6
+2689,279,7,HTML5 & CSS3,1,3
+2690,279,23,Problem Solving & DSA,3,12
+2691,280,2,Python,4,24
+2692,280,20,Machine Learning,4,24
+2693,280,21,Pandas & NumPy,3,18
+2694,280,22,Natural Language Processing (NLP),4,12
+2695,280,23,Problem Solving & DSA,4,20
+2696,280,14,PostgreSQL,1,3
+2697,280,18,Docker,1,3
+2698,280,17,Git & GitHub,1,4
+2699,280,23,Problem Solving & DSA,4,12
+2700,281,2,Python,5,30
+2701,281,21,Pandas & NumPy,5,25
+2702,281,14,PostgreSQL,4,20
+2703,281,15,MySQL,4,12
+2704,281,23,Problem Solving & DSA,4,12
+2705,281,20,Machine Learning,3,6
+2706,281,17,Git & GitHub,1,3
+2707,281,23,Problem Solving & DSA,5,12
+2708,281,24,Teamwork & Collaboration,5,12
+2709,282,2,Python,3,9
+2710,282,20,Machine Learning,5,25
+2711,282,21,Pandas & NumPy,4,12
+2712,282,22,Natural Language Processing (NLP),4,16
+2713,282,23,Problem Solving & DSA,3,18
+2714,282,14,PostgreSQL,1,4
+2715,282,18,Docker,3,6
+2716,282,17,Git & GitHub,1,2
+2717,282,23,Problem Solving & DSA,4,12
+2718,282,24,Teamwork & Collaboration,5,12
+2719,283,2,Python,4,12
+2720,283,12,RESTful APIs,3,15
+2721,283,14,PostgreSQL,5,25
+2722,283,17,Git & GitHub,4,24
+2723,283,23,Problem Solving & DSA,4,12
+2724,283,18,Docker,1,4
+2725,283,21,Pandas & NumPy,2,6
+2726,283,20,Machine Learning,2,8
+2727,283,23,Problem Solving & DSA,3,12
+2728,283,24,Teamwork & Collaboration,5,12
+2729,284,6,React,3,9
+2730,284,3,JavaScript,4,16
+2731,284,10,Spring Boot,3,18
+2732,284,7,HTML5 & CSS3,4,12
+2733,284,14,PostgreSQL,5,20
+2734,284,17,Git & GitHub,3,9
+2735,284,18,Docker,1,2
+2736,284,4,TypeScript,2,6
+2737,284,8,Tailwind CSS,2,4
+2738,285,2,Python,4,20
+2739,285,20,Machine Learning,4,20
+2740,285,21,Pandas & NumPy,4,20
+2741,285,22,Natural Language Processing (NLP),5,20
+2742,285,23,Problem Solving & DSA,5,30
+2743,285,17,Git & GitHub,3,6
+2744,285,18,Docker,1,4
+2745,285,14,PostgreSQL,2,4
+2746,286,18,Docker,4,12
+2747,286,19,AWS (Amazon Web Services),5,25
+2748,286,17,Git & GitHub,3,15
+2749,286,2,Python,5,25
+2750,286,13,Microservices,4,16
+2751,286,12,RESTful APIs,2,4
+2752,286,14,PostgreSQL,1,3
+2753,286,23,Problem Solving & DSA,5,12
+2754,286,24,Teamwork & Collaboration,5,12
+2755,287,1,Java,4,20
+2756,287,10,Spring Boot,5,30
+2757,287,12,RESTful APIs,3,18
+2758,287,14,PostgreSQL,5,30
+2759,287,17,Git & GitHub,4,16
+2760,287,23,Problem Solving & DSA,3,12
+2761,287,18,Docker,3,6
+2762,287,7,HTML5 & CSS3,1,3
+2763,287,13,Microservices,3,9
+2764,288,18,Docker,5,15
+2765,288,19,AWS (Amazon Web Services),4,24
+2766,288,17,Git & GitHub,5,30
+2767,288,2,Python,4,24
+2768,288,13,Microservices,5,20
+2769,288,12,RESTful APIs,1,2
+2770,288,14,PostgreSQL,1,4
+2771,288,23,Problem Solving & DSA,3,12
+2772,288,24,Teamwork & Collaboration,3,12
+2773,289,1,Java,4,16
+2774,289,10,Spring Boot,5,30
+2775,289,12,RESTful APIs,4,20
+2776,289,14,PostgreSQL,4,16
+2777,289,17,Git & GitHub,4,16
+2778,289,23,Problem Solving & DSA,3,9
+2779,289,7,HTML5 & CSS3,3,9
+2780,289,13,Microservices,3,9
+2781,289,18,Docker,2,4
+2782,289,23,Problem Solving & DSA,3,12
+2783,289,24,Teamwork & Collaboration,5,12
+2784,290,6,React,4,16
+2785,290,3,JavaScript,4,24
+2786,290,10,Spring Boot,3,15
+2787,290,7,HTML5 & CSS3,3,12
+2788,290,14,PostgreSQL,5,20
+2789,290,17,Git & GitHub,4,12
+2790,290,8,Tailwind CSS,1,4
+2791,290,18,Docker,3,6
+2792,290,12,RESTful APIs,3,12
+2793,290,23,Problem Solving & DSA,4,12
+2794,290,24,Teamwork & Collaboration,4,12
+2795,291,1,Java,3,9
+2796,291,10,Spring Boot,5,25
+2797,291,12,RESTful APIs,4,16
+2798,291,14,PostgreSQL,4,24
+2799,291,18,Docker,4,20
+2800,291,13,Microservices,5,20
+2801,291,11,Node.js & Express,1,4
+2802,291,19,AWS (Amazon Web Services),1,2
+2803,291,17,Git & GitHub,1,3
+2804,291,23,Problem Solving & DSA,3,12
+2805,291,24,Teamwork & Collaboration,3,12
+2806,292,6,React,5,30
+2807,292,3,JavaScript,3,9
+2808,292,10,Spring Boot,3,18
+2809,292,7,HTML5 & CSS3,4,16
+2810,292,14,PostgreSQL,4,24
+2811,292,17,Git & GitHub,4,12
+2812,292,18,Docker,1,4
+2813,292,12,RESTful APIs,2,4
+2814,292,8,Tailwind CSS,1,2
+2815,292,24,Teamwork & Collaboration,5,12
+2816,293,6,React,5,30
+2817,293,3,JavaScript,3,12
+2818,293,4,TypeScript,3,9
+2819,293,7,HTML5 & CSS3,4,16
+2820,293,8,Tailwind CSS,4,12
+2821,293,17,Git & GitHub,4,24
+2822,293,9,Angular,3,6
+2823,293,23,Problem Solving & DSA,1,4
+2824,293,12,RESTful APIs,2,4
+2825,293,23,Problem Solving & DSA,4,12
+2826,294,6,React,5,15
+2827,294,3,JavaScript,3,9
+2828,294,4,TypeScript,4,20
+2829,294,7,HTML5 & CSS3,5,20
+2830,294,8,Tailwind CSS,4,12
+2831,294,17,Git & GitHub,3,9
+2832,294,23,Problem Solving & DSA,1,3
+2833,294,12,RESTful APIs,2,8
+2834,294,9,Angular,3,9
+2835,294,23,Problem Solving & DSA,5,12
+2836,295,1,Java,4,20
+2837,295,10,Spring Boot,3,18
+2838,295,12,RESTful APIs,3,15
+2839,295,14,PostgreSQL,3,12
+2840,295,18,Docker,4,12
+2841,295,13,Microservices,5,30
+2842,295,19,AWS (Amazon Web Services),1,4
+2843,295,11,Node.js & Express,1,4
+2844,295,17,Git & GitHub,2,4
+2845,295,23,Problem Solving & DSA,5,12
+2846,295,24,Teamwork & Collaboration,5,12
+2847,296,2,Python,3,12
+2848,296,21,Pandas & NumPy,3,9
+2849,296,14,PostgreSQL,4,24
+2850,296,15,MySQL,3,9
+2851,296,23,Problem Solving & DSA,4,20
+2852,296,17,Git & GitHub,3,6
+2853,296,20,Machine Learning,1,2
+2854,296,23,Problem Solving & DSA,3,12
+2855,296,24,Teamwork & Collaboration,3,12
+2856,297,2,Python,4,12
+2857,297,21,Pandas & NumPy,3,18
+2858,297,14,PostgreSQL,3,18
+2859,297,15,MySQL,4,16
+2860,297,23,Problem Solving & DSA,3,12
+2861,297,20,Machine Learning,1,4
+2862,297,17,Git & GitHub,1,4
+2863,297,23,Problem Solving & DSA,4,12
+2864,297,24,Teamwork & Collaboration,3,12
+2865,298,18,Docker,4,20
+2866,298,19,AWS (Amazon Web Services),5,20
+2867,298,17,Git & GitHub,4,12
+2868,298,2,Python,5,30
+2869,298,13,Microservices,4,12
+2870,298,14,PostgreSQL,2,4
+2871,298,12,RESTful APIs,1,2
+2872,299,18,Docker,4,16
+2873,299,19,AWS (Amazon Web Services),5,15
+2874,299,17,Git & GitHub,4,20
+2875,299,2,Python,3,9
+2876,299,13,Microservices,4,16
+2877,299,14,PostgreSQL,1,2
+2878,299,12,RESTful APIs,2,4
+2879,299,23,Problem Solving & DSA,4,12
+2880,300,6,React,4,20
+2881,300,3,JavaScript,3,18
+2882,300,10,Spring Boot,3,15
+2883,300,7,HTML5 & CSS3,5,15
+2884,300,14,PostgreSQL,5,30
+2885,300,17,Git & GitHub,3,9
+2886,300,18,Docker,1,2
+2887,300,8,Tailwind CSS,1,4
+2888,300,12,RESTful APIs,1,3
+2889,300,24,Teamwork & Collaboration,3,12

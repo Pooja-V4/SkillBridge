@@ -1,0 +1,153 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_estimators": 150,
+  "max_depth": 12,
+  "cv_accuracy_mean": 1.0,
+  "cv_accuracy_std": 0.0,
+  "test_accuracy": 1.0,
+  "classes": [
+    "Backend Developer",
+    "Data Analyst",
+    "DevOps Engineer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Java Developer",
+    "Machine Learning Engineer",
+    "Python Developer"
+  ],
+  "feature_names": [
+    "skill_1",
+    "skill_2",
+    "skill_3",
+    "skill_4",
+    "skill_5",
+    "skill_6",
+    "skill_7",
+    "skill_8",
+    "skill_9",
+    "skill_10",
+    "skill_11",
+    "skill_12",
+    "skill_13",
+    "skill_14",
+    "skill_15",
+    "skill_16",
+    "skill_17",
+    "skill_18",
+    "skill_19",
+    "skill_20",
+    "skill_21",
+    "skill_22",
+    "skill_23",
+    "skill_24",
+    "cgpa",
+    "academic_year",
+    "projects_count",
+    "certifications_count"
+  ],
+  "feature_importances": [
+    {
+      "feature": "skill_19",
+      "importance": 0.0736165630725656
+    },
+    {
+      "feature": "skill_11",
+      "importance": 0.06962168346320952
+    },
+    {
+      "feature": "skill_12",
+      "importance": 0.06563281883554663
+    },
+    {
+      "feature": "skill_10",
+      "importance": 0.06268251845948952
+    },
+    {
+      "feature": "skill_21",
+      "importance": 0.06170485520824553
+    },
+    {
+      "feature": "skill_14",
+      "importance": 0.05932297446038904
+    },
+    {
+      "feature": "skill_1",
+      "importance": 0.057338256103104224
+    },
+    {
+      "feature": "skill_15",
+      "importance": 0.05673035952261347
+    },
+    {
+      "feature": "skill_18",
+      "importance": 0.05324443696692287
+    },
+    {
+      "feature": "skill_2",
+      "importance": 0.05115529631795426
+    }
+  ],
+  "classification_metrics": {
+    "Backend Developer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "Data Analyst": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "DevOps Engineer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "Frontend Developer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Full Stack Developer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Java Developer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Machine Learning Engineer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Python Developer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    }
+  }
+}
